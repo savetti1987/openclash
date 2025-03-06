@@ -1,0 +1,18 @@
+# NAME: HamiVideo
+# DOMAIN: 1
+# DOMAIN-KEYWORD: 1
+# DOMAIN-SUFFIX: 2
+# TOTAL: 4
+payload:
+    - DOMAIN-SUFFIX,hinet,
+    - DOMAIN-KEYWORD,hamivideo
+    - DOMAIN-SUFFIX,4gtv.tv
+    - DOMAIN-SUFFIX,cdn.hinet.net
+    - DOMAIN-SUFFIX,akamaized,
+    - DOMAIN-SUFFIX,cdn.hinet.net
+    - DOMAIN-SUFFIX,akamaized.net
+    - DOMAIN-SUFFIX,ofissaifreepc.akamaized.net
+    - DOMAIN-SUFFIX,litvpc-hichannel.cdn.hinet.net
+    - DOMAIN-SUFFIX,4gtvfree-cds.cdn.hinet.net
+    - DOMAIN-SUFFIX,4gtvfree-mozai.4gtv.tv
+    - DOMAIN-SUFFIX,4gtvfreepc-cds.cdn.hinet.net
