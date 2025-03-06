@@ -50,11 +50,11 @@ All: &All
 proxy-providers: # ← 此函数位置请勿变动！此为模块更新时备份恢复订阅变量范围 ↓
   1.主要地址:
     <<: *p
-    url: "http://124.71.40.178/api/v1/client/subscribe?token=3b640536182e0936826f3a6bfab6f2a6"
+    url: "https://dash.pqjc.site/api/v1/client/subscribe?token=a334b2b75a2752222bf0f60eead1ee87"
     
   2.备用地址:
     <<: *p
-    url: "https://dash.pqjc.site/api/v1/client/subscribe?token=a334b2b75a2752222bf0f60eead1ee87"
+    url: "http://124.71.40.178/api/v1/client/subscribe?token=3b640536182e0936826f3a6bfab6f2a6"
   
   3.额外地址:
     <<: *p
@@ -160,18 +160,6 @@ proxy_groups: &proxy_groups
       - 🌍 其它地区
       - 🌎 全球直连
     <<: *A
-proxy_groups: &proxy_groups_tw
-    type: select
-    proxies:
-      - 🎯 总模式
-      - ⛔️ 拒绝连接
-      - ♻️ 延迟最低
-      - ♻️ 故障转移
-      - ♻️ 负载均衡
-      - 🇨🇳 台湾节点
-      - 🌍 其它地区
-      - 🌎 全球直连
-    <<: *A    
 # —————————
 proxy-groups:
   - name: 🎯 总模式
@@ -212,7 +200,7 @@ proxy-groups:
     <<: *proxy_groups
 
   - name: 🎮 Discord
-    <<: *proxy_groups_tw
+    <<: *proxy_groups
 
   - name: 📸 TikTok
     <<: *proxy_groups
