@@ -2,7 +2,7 @@
 #EXTINF:-1 tvg-name="极限台" tvg-logo="https://live.fanmingming.cn/tv/极限台.png" group-title="台灣頻道",极限台
 http://suo.im/aD7Ry
 #EXTINF:-3 tvg-name="東森洋片" tvg-logo="https://live.fanmingming.cn/tv/東森洋片.png" group-title="台灣頻道",東森洋片
-https://stream1.freetv.fun/dong-sen-yang-pian-5.ctv
+https://stream1.freetv.fun/7e2982f5889af5d8c03c773d7cd2742a1595bf464ac49fdd012b1a29e4a00af3.m3u8
 #EXTINF:-3 tvg-name="緯來日本" tvg-logo="https://live.fanmingming.cn/tv/緯來日本.png" group-title="台灣頻道",緯來日本
 https://stream1.freetv.fun/wei-lai-ri-ben-2.ctv
 #EXTINF:-3 tvg-name="緯來電影" tvg-logo="https://live.fanmingming.cn/tv/緯來電影.png" group-title="台灣頻道",緯來電影
@@ -17,5 +17,5 @@ https://tv.cdn8.rr.nu/live/lhyp/stream.m3u8
 https://mytv.cdn.com.mp/zhujiang/index.m3u8
 #EXTINF:-1,tvg-id="广东民生" tvg-name="广东民生" tvg-logo="https://epg.v1.mk/logo/广东民生.png" group-title="廣東頻道",广东民生
 https://mytv.cdn.com.mp/gdminsheng/index.m3u8
-#EXTINF:-1,tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://epg.v1.mk/logo/翡翠台.png" group-title="香港頻道",广电翡翠台
-https://mytv.cdn.com.mp/gdfeicuitai/index.m3u8
+#EXTINF:-1,tvg-id="東森電影" tvg-name="東森電影" tvg-logo="https://epg.v1.mk/logo/東森電影.png" group-title="台灣頻道",東森電影
+https://stream1.freetv.fun/e0eb43da03e796ba7ff0f0e15429a4f5e0f86365a1a47198869e5cf35a47096e.ctv
