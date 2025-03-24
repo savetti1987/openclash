@@ -33,3 +33,5 @@ https://stream1.freetv.fun/66bee3f6c8f6787311d7e510a58eb32e680ecc6e783ba6060863e
 https://stream1.freetv.fun/98683be37081134e9a63bfa138b66090ab3b337ff11623816874e4621b3bf77d.m3u8
 #EXTINF:-1 group-title="待整理",Hustler HD
 https://stream1.freetv.fun/a60e38d38ac5fdb7d085115be5895fade1195be688a5660ab973f6b84404add8.m3u8
+#EXTINF:-1 group-title="西語頻道",HBO
+https://stream1.freetv.fun/hbo-14.m3u8
