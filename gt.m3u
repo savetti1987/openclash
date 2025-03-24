@@ -9,6 +9,8 @@ https://stream1.freetv.fun/36c36c10c753997dd33f30ba27722c8ed095ca8a26b487b9dd499
 https://stream1.freetv.fun/wei-lai-ri-ben-2.ctv
 #EXTINF:-3 tvg-name="緯來電影" tvg-logo="https://live.fanmingming.cn/tv/緯來電影.png" group-title="台灣頻道",緯來電影
 https://stream1.freetv.fun/wei-lai-dian-ying-2.m3u8
+#EXTINF:-3 tvg-name="緯來体育" tvg-logo="https://live.fanmingming.cn/tv/緯來体育.png" group-title="台灣頻道",緯來体育
+https://stream1.freetv.fun/wei-lai-ti-yu-10.m3u8
 #EXTINF:-3 tvg-name="龍華電影" tvg-logo="https://live.fanmingming.cn/tv/龍華電影.png" group-title="台灣頻道",龍華電影
 https://stream1.freetv.fun/long-hua-dian-ying-4.m3u8
 #EXTINF:-3 tvg-name="龍華經典" tvg-logo="https://live.fanmingming.cn/tv/龍華經典.png" group-title="台灣頻道",龍華經典
