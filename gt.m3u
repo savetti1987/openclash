@@ -35,5 +35,5 @@ https://stream1.freetv.fun/98683be37081134e9a63bfa138b66090ab3b337ff11623816874e
 https://stream1.freetv.fun/a60e38d38ac5fdb7d085115be5895fade1195be688a5660ab973f6b84404add8.m3u8
 #EXTINF:-1 group-title="西語頻道",HBO
 http://122.117.71.103:8556/.m3u8
-#EXTINF:-1,tvg-id="HITS频道" tvg-name="HITS频道" tvg-logo="https://live.fanmingming.cn/tv/HITS频道.png" group-title="台灣頻道",HITS频道
-http://47.239.245.207:5050/4gtv/186
+#EXTINF:-1,tvg-id="HITS電影" tvg-name="HITS電影" tvg-logo="https://live.fanmingming.cn/tv/HITS频道.png" group-title="台灣頻道",HITS電影
+https://stream1.freetv.fun/hitsdian-ying-1.m3u8
