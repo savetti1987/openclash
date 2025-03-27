@@ -45,10 +45,8 @@ https://stream1.freetv.fun/discovery-asia-1.ctv
 https://stream1.freetv.fun/hbo-family-10.ctv
 #EXTINF:-1 group-title="西語頻道",CinemaX
 https://stream1.freetv.fun/cinemax-8.ctv
-#EXTM3U x-tvg-url="https://live.wzi.me/e.xml"
 #EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://live.wzi.me/tv/翡翠台.png" group-title="香港頻道",翡翠台
 http://php.jdshipin.com:8880/smt.php?id=jade_twn
-#EXTM3U x-tvg-url="https://live.wzi.me/e.xml"
 #EXTINF:-1 tvg-name="华丽翡翠台" tvg-logo="https://live.wzi.me/tv/华丽翡翠台.png" group-title="香港頻道”,华丽翡翠台
 http://php.jdshipin.com:8880/smt.php?id=Tvbjade
 #EXTINF:-1 tvg-name="TVB星河" tvg-logo="https://live.wzi.me/tv/TVB星河.png" group-title="香港頻道”,TVB星河
