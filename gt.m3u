@@ -25,7 +25,7 @@ https://mytv.cdn.com.mp/gdminsheng/index.m3u8
 https://stream1.freetv.fun/2354bc4edf14a9ba6814c448e808d276bbca0f1fe8133b1e0812e0322ce83beb.ctv
 #EXTINF:-1,tvg-id="東森電影" tvg-name="東森電影" tvg-logo="https://live.fanmingming.cn/tv/東森電影.png" group-title="台灣頻道",東森電影
 https://stream1.freetv.fun/e0eb43da03e796ba7ff0f0e15429a4f5e0f86365a1a47198869e5cf35a47096e.ctv
-#EXTINF:-1 group-title="台灣頻道",Discovery Asia
+#EXTINF:-1 group-title="台灣頻道",好來坞電影
 https://stream1.freetv.fun/hao-lai-wu-dian-ying-4.ctv
 #EXTINF:-1 group-title="待整理",松視1台
 https://stream1.freetv.fun/7e0cfc014e643b0c633717eadc822d5ee3a6c1b2ef3136bbc9a8ad3dcd3d5011.m3u8
