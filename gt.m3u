@@ -45,23 +45,24 @@ https://stream1.freetv.fun/discovery-asia-1.ctv
 https://stream1.freetv.fun/hbo-family-10.ctv
 #EXTINF:-1 group-title="西語頻道",CinemaX
 https://stream1.freetv.fun/cinemax-8.ctv
+#EXTM3U x-tvg-url="https://live.wzi.me/e.xml"
 #EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://live.wzi.me/tv/翡翠台.png" group-title="香港頻道",翡翠台
 http://php.jdshipin.com:8880/smt.php?id=jade_twn
-#EXTINF:-1 tvg-name="华丽翡翠台" tvg-logo="https://live.wzi.me/tv/华丽翡翠台.png" group-title="香港頻道”,华丽翡翠台
+#EXTINF:-1 tvg-name="华丽翡翠台" tvg-logo="https://live.wzi.me/tv/华丽翡翠台.png" group-title="香港頻道",华丽翡翠台
 http://php.jdshipin.com:8880/smt.php?id=Tvbjade
-#EXTINF:-1 tvg-name="TVB星河" tvg-logo="https://live.wzi.me/tv/TVB星河.png" group-title="香港頻道”,TVB星河
+#EXTINF:-1 tvg-name="TVB星河" tvg-logo="https://live.wzi.me/tv/TVB星河.png" group-title="香港頻道",TVB星河
 http://php.jdshipin.com:8880/smt.php?id=Xinhe
-#EXTINF:-1 tvg-name="明珠台" tvg-logo="https://live.wzi.me/tv/明珠台.png" group-title="香港頻道”,明珠台
+#EXTINF:-1 tvg-name="明珠台" tvg-logo="https://live.wzi.me/tv/明珠台.png" group-title="香港頻道",明珠台
 http://php.jdshipin.com:8880/smt.php?id=pearl_twn
-#EXTINF:-1 tvg-name="TVB Plus" tvg-logo="https://live.wzi.me/tv/TVB Plus.png" group-title="香港頻道”,TVB Plus
+#EXTINF:-1 tvg-name="TVB Plus" tvg-logo="https://live.wzi.me/tv/TVB Plus.png" group-title="香港頻道",TVB Plus
 http://php.jdshipin.com:8880/smt.php?id=j2_twn
-#EXTINF:-1 tvg-name="无线新闻" tvg-logo="https://live.wzi.me/tv/无线新闻.png" group-title="香港頻道”,无线新闻
+#EXTINF:-1 tvg-name="无线新闻" tvg-logo="https://live.wzi.me/tv/无线新闻.png" group-title="香港頻道",无线新闻
 http://php.jdshipin.com:8880/smt.php?id=inews_twn
-#EXTINF:-1 tvg-name="TVB娱乐新闻台" tvg-logo="https://live.wzi.me/tv/TVB娱乐新闻台.png" group-title="香港頻道”,TVB娱乐新闻台
+#EXTINF:-1 tvg-name="TVB娱乐新闻台" tvg-logo="https://live.wzi.me/tv/TVB娱乐新闻台.png" group-title="香港頻道",TVB娱乐新闻台
 http://php.jdshipin.com:8880/smt.php?id=Tvbentertainment
-#EXTINF:-1 tvg-name="ViuTV" tvg-logo="https://live.wzi.me/tv/ViuTV.png" group-title="香港頻道”,ViuTV
+#EXTINF:-1 tvg-name="ViuTV" tvg-logo="https://live.wzi.me/tv/ViuTV.png" group-title="香港頻道",ViuTV
 http://php.jdshipin.com:8880/smt.php?id=viu1_twn
-#EXTINF:-1 tvg-name="ViuTVSix" tvg-logo="https://live.wzi.me/tv/ViuTVSix.png" group-title="香港頻道”,ViuTVSix
+#EXTINF:-1 tvg-name="ViuTVSix" tvg-logo="https://live.wzi.me/tv/ViuTVSix.png" group-title="香港頻道",ViuTVSix
 http://php.jdshipin.com:8880/smt.php?id=viusix_twn
 #EXTINF:-1 tvg-name="RTHK31" tvg-logo="https://live.wzi.me/tv/RTHK31.png" group-title="香港頻道”,RTHK31
 http://php.jdshipin.com:8880/smt.php?id=rhk31_twn
