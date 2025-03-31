@@ -76,6 +76,9 @@ https://stream1.freetv.fun/cinemax-8.ctv
 #EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://live.wzi.me/tv/翡翠台.png" group-title="香港頻道",翡翠台
 http://php.jdshipin.com:8880/smt.php?id=jade_twn
 
+#EXTINF:-1 tvg-name="TVB PLUS" tvg-logo="https://live.wzi.me/tv/TVB PLUS.png" group-title="香港頻道",TVB PLUS
+http://cdn.163189.xyz/live/tvbp/stream.m3u8
+
 #EXTINF:-1 tvg-name="华丽翡翠台" tvg-logo="https://live.wzi.me/tv/华丽翡翠台.png" group-title="香港頻道",华丽翡翠台
 http://php.jdshipin.com:8880/smt.php?id=Tvbjade
 
