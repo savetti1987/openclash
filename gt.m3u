@@ -9,8 +9,8 @@ https://stream1.freetv.fun/dong-sen-yang-pian-5.ctv
 #EXTINF:-3 tvg-name="東森洋片（備用）" tvg-logo="https://assets.livednow.com/logo/東森洋片.png" group-title="台灣頻道",東森洋片（備用）
 https://stream1.freetv.fun/36c36c10c753997dd33f30ba27722c8ed095ca8a26b487b9dd499309d7726b0a.m3u8
 
-#EXTINF:-3 tvg-name="緯來日本" tvg-logo="https://assets.livednow.com/logo/纬来日本.png" group-title="台灣頻道",緯來日本
-https://stream1.freetv.fun/wei-lai-ri-ben-2.ctv
+#EXTINF:-1 tvg-name="緯來日本" tvg-logo="https://live.fanmingming.cn/tv/緯來日本.png" group-title="🇨🇳 港台",緯來日本
+rtmp://f13h.mine.nu/sat/tv771
 
 #EXTINF:-3 tvg-name="緯來電影" tvg-logo="https://assets.livednow.com/logo/纬来電影.png" group-title="台灣頻道",緯來電影
 https://stream1.freetv.fun/wei-lai-dian-ying-2.m3u8
