@@ -14,6 +14,7 @@ https://stream1.freetv.fun/wei-lai-ri-ben-2.ctv
 
 #EXTINF:-3 tvg-name="緯來電影" tvg-logo="https://assets.livednow.com/logo/纬来電影.png" group-title="台灣頻道",緯來電影
 https://stream1.freetv.fun/wei-lai-dian-ying-2.m3u8
+
 #EXTINF:-1 tvg-name="緯來體育" tvg-logo="https://live.fanmingming.cn/tv/緯來體育.png" group-title="台灣頻道",緯來體育
 rtmp://f13h.mine.nu/sat/tv721
 
