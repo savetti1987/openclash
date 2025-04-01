@@ -3,6 +3,9 @@
 #EXTINF:-1 tvg-name="极限台" tvg-logo="https://assets.livednow.com/logo/极限台.png" group-title="台灣頻道",极限台
 https://z88.ubtvfans.com/live/rx3/405/3173a543a9c92b07348ba90c2a3e833e/index.m3u8
 
+#EXTINF:-1 tvg-name="极限台（備）" tvg-logo="https://assets.livednow.com/logo/极限台.png" group-title="台灣頻道",极限台（備）
+https://hyf000.eu.org/live/80947108.php?id=Jstar
+
 #EXTINF:-3 tvg-name="東森洋片" tvg-logo="https://assets.livednow.com/logo/東森洋片.png" group-title="台灣頻道",東森洋片
 https://stream1.freetv.fun/dong-sen-yang-pian-5.ctv
 
