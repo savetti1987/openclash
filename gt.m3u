@@ -156,3 +156,6 @@ http://cdn.163189.xyz/live/hoy/stream.m3u8
 
 #EXTINF:-1 tvg-name="功夫台" tvg-logo="https://live.wzi.me/tv/功夫台.png" group-title="香港頻道",功夫台
 http://php.jdshipin.com/TVOD/iptv.php?id=yzwx
+
+#EXTINF:-1 tvg-name="Now新聞" tvg-logo="https://live.wzi.me/tv/Now新聞.png" group-title="香港頻道",Now新聞
+http://a.vb.cc.ua/now/332/master.m3u8
