@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTM3U x-tvg-url="https://assets.livednow.com/epg.xml,https://epg.112114.xyz/pp.xml.gz"
+#EXTM3U x-tvg-url="https://assets.livednow.com/epg.xml,https://live.wzi.me/e.xml,https://epg.112114.xyz/pp.xml.gz"
 #EXTINF:-1 tvg-name="极限台" tvg-logo="https://epg.pw/media/images/epg/2024/06/11/20240611160657599970_96.jpg" group-title="待整理",极限台
 https://z88.ubtvfans.com/live/rx3/405/3173a543a9c92b07348ba90c2a3e833e/index.m3u8
 
