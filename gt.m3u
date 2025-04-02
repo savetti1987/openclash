@@ -82,29 +82,29 @@ http://php.jdshipin.com:8880/smt.php?id=hkphoenix_twn
 #EXTINF:-1 tvg-name="八度空间" tvg-logo="https://live.wzi.me/tv/八度空间.png" group-title="香港頻道",八度空间
 http://php.jdshipin.com:8880/smt.php?id=TV8
 
-#EXTINF:-1 tvg-name="Astro AOD" tvg-logo="https://live.wzi.me/tv/Astro AOD.png" group-title="香港頻道",Astro AOD
+#EXTINF:-1 tvg-name="Astro AOD" tvg-logo="https://epg.pw/media/images/epg/2024/06/09/20240609081008343330_76.png" group-title="香港頻道",Astro AOD
 http://php.jdshipin.com:8880/smt.php?id=Aodhd
 
-#EXTINF:-1 tvg-name="Astro AEC" tvg-logo="https://live.wzi.me/tv/Astro AEC.png" group-title="香港頻道",Astro AEC
+#EXTINF:-1 tvg-name="Astro AEC" tvg-logo="https://epg.pw/media/images/epg/2024/06/09/20240609081026946415_83.png" group-title="香港頻道",Astro AEC
 http://php.jdshipin.com:8880/smt.php?id=AEC
 
 #EXTINF:-1 tvg-name="爱奇艺" tvg-logo="https://live.wzi.me/tv/爱奇艺.png" group-title="香港頻道",爱奇艺
 http://php.jdshipin.com:8880/smt.php?id=Qiyi
 
-#EXTINF:-1 tvg-name="Astro QJ" tvg-logo="https://live.wzi.me/tv/Astro QJ.png" group-title="香港頻道",Astro QJ
+#EXTINF:-1 tvg-name="Astro QJ" tvg-logo="https://epg.pw/media/images/epg/2024/06/09/20240609080929884114_31.png" group-title="香港頻道",Astro QJ
 http://php.jdshipin.com:8880/smt.php?id=Quanjia
 
-#EXTINF:-1 tvg-name="Astro欢喜台" tvg-logo="https://live.wzi.me/tv/Astro欢喜台.png" group-title="香港頻道",Astro欢喜台
+#EXTINF:-1 tvg-name="Astro欢喜台" tvg-logo="https://epg.pw/media/images/epg/2024/06/09/20240609080949070325_14.png" group-title="香港頻道",Astro欢喜台
 http://php.jdshipin.com:8880/smt.php?id=Huahee
 
-#EXTINF:-1 tvg-name="Hoy Tv 77" tvg-logo="https://live.wzi.me/tv/Hoy 77.png" group-title="香港頻道",Hoy Tv 77
+#EXTINF:-1 tvg-name="Hoy Tv 77" tvg-logo="https://isus.cc/share/logo/HOYTV.png" group-title="香港頻道",Hoy Tv 77
 http://cdn.163189.xyz/live/hoy/stream.m3u8
 
 #EXTINF:-1 tvg-name="功夫台" tvg-logo="https://live.wzi.me/tv/功夫台.png" group-title="香港頻道",功夫台
 http://php.jdshipin.com/TVOD/iptv.php?id=yzwx
 
-#EXTINF:-1 tvg-name="Now新聞" tvg-logo="https://live.wzi.me/tv/Now新聞.png" group-title="香港頻道",Now新聞
+#EXTINF:-1 tvg-name="Now新聞" tvg-logo="https://isus.cc/share/logo/Now-新闻台.png" group-title="香港頻道",Now新聞
 http://a.vb.cc.ua/now/332/master.m3u8
 
-#EXTINF:-1 tvg-name="麥哲倫頻道" tvg-logo="https://live.wzi.me/tv/麥哲倫頻道.png" group-title="台灣頻道",麥哲倫頻道
+#EXTINF:-1 tvg-name="麥哲倫頻道" tvg-logo="https://epg.pw/media/images/epg/2025/03/01/20250301050105373432_94.png" group-title="台灣頻道",麥哲倫頻道
 http://a.vb.cc.ua/50007/4gtv-live123/master.m3u8
