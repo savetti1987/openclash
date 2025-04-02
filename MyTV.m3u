@@ -1,24 +1,5 @@
 #EXTM3U
 #EXTM3U x-tvg-url="https://assets.livednow.com/epg.xml,https://live.wzi.me/e.xml,https://epg.112114.xyz/pp.xml.gz"
-#EXTINF:-1 tvg-name="极限台" tvg-logo="https://epg.pw/media/images/epg/2024/06/11/20240611160657599970_96.jpg" group-title="待整理",极限台
-https://z88.ubtvfans.com/live/rx3/405/3173a543a9c92b07348ba90c2a3e833e/index.m3u8
-
-#EXTINF:-1 -1 tvg-name="J Sport3" tvg-logo="https://assets.livednow.com/logo/J Sport3.png" group-title="體育頻道",J Sport3
-http://luong.utako.moe/js3/index.m3u8
-
-#EXTINF:-1 tvg-name="松視1台" tvg-logo="https://epg.pw/media/images/epg/2024/06/11/20240611160519310300_91.jpg" group-title="待整理",松視1台
-https://stream1.freetv.fun/7e0cfc014e643b0c633717eadc822d5ee3a6c1b2ef3136bbc9a8ad3dcd3d5011.m3u8
-
-#EXTINF:-1 tvg-name="松視2台" tvg-logo="https://epg.pw/media/images/epg/2024/06/11/20240611160534951744_94.jpg" group-title="待整理",松視2台
-https://stream1.freetv.fun/66bee3f6c8f6787311d7e510a58eb32e680ecc6e783ba6060863e0548c71bede.m3u8
-
-#EXTINF:-1 tvg-name="Dorcel HD" tvg-logo="https://epg.pw/media/images/epg/2024/06/08/20240608034208997752_71.png" group-title="待整理",Dorcel HD
-https://stream1.freetv.fun/98683be37081134e9a63bfa138b66090ab3b337ff11623816874e4621b3bf77d.m3u8
-
-#EXTINF:-1 tvg-name="Hustler HD" tvg-logo="https://epg.pw/media/images/epg/2024/06/08/20240608034717118584_11.png" group-title="待整理",Hustler HD
-https://stream1.freetv.fun/a60e38d38ac5fdb7d085115be5895fade1195be688a5660ab973f6b84404add8.m3u8
-
-#EXTM3U x-tvg-url="https://live.wzi.me/epg.xml,https://epg.112114.xyz/pp.xml.gz"
 #EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://live.wzi.me/tv/翡翠台.png" group-title="香港頻道",翡翠台
 http://php.jdshipin.com:8880/smt.php?id=jade_twn
 
@@ -108,3 +89,21 @@ http://a.vb.cc.ua/now/332/master.m3u8
 
 #EXTINF:-1 tvg-name="麥哲倫頻道" tvg-logo="https://epg.pw/media/images/epg/2025/03/01/20250301050105373432_94.png" group-title="台灣頻道",麥哲倫頻道
 http://a.vb.cc.ua/50007/4gtv-live123/master.m3u8
+
+#EXTINF:-1 tvg-name="极限台" tvg-logo="https://epg.pw/media/images/epg/2024/06/11/20240611160657599970_96.jpg" group-title="待整理",极限台
+https://z88.ubtvfans.com/live/rx3/405/3173a543a9c92b07348ba90c2a3e833e/index.m3u8
+
+#EXTINF:-1 -1 tvg-name="J Sport3" tvg-logo="https://assets.livednow.com/logo/J Sport3.png" group-title="體育頻道",J Sport3
+http://luong.utako.moe/js3/index.m3u8
+
+#EXTINF:-1 tvg-name="松視1台" tvg-logo="https://epg.pw/media/images/epg/2024/06/11/20240611160519310300_91.jpg" group-title="待整理",松視1台
+https://stream1.freetv.fun/7e0cfc014e643b0c633717eadc822d5ee3a6c1b2ef3136bbc9a8ad3dcd3d5011.m3u8
+
+#EXTINF:-1 tvg-name="松視2台" tvg-logo="https://epg.pw/media/images/epg/2024/06/11/20240611160534951744_94.jpg" group-title="待整理",松視2台
+https://stream1.freetv.fun/66bee3f6c8f6787311d7e510a58eb32e680ecc6e783ba6060863e0548c71bede.m3u8
+
+#EXTINF:-1 tvg-name="Dorcel HD" tvg-logo="https://epg.pw/media/images/epg/2024/06/08/20240608034208997752_71.png" group-title="待整理",Dorcel HD
+https://stream1.freetv.fun/98683be37081134e9a63bfa138b66090ab3b337ff11623816874e4621b3bf77d.m3u8
+
+#EXTINF:-1 tvg-name="Hustler HD" tvg-logo="https://epg.pw/media/images/epg/2024/06/08/20240608034717118584_11.png" group-title="待整理",Hustler HD
+https://stream1.freetv.fun/a60e38d38ac5fdb7d085115be5895fade1195be688a5660ab973f6b84404add8.m3u8
