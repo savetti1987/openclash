@@ -87,10 +87,10 @@ http://php.jdshipin.com/TVOD/iptv.php?id=yzwx
 #EXTINF:-1 tvg-name="Now 新聞" tvg-logo="https://isus.cc/share/logo/星視界/Now 新闻台.png" group-title="香港頻道",Now 新聞
 http://a.vb.cc.ua/now/332/master.m3u8
 
-#EXTINF:-1 tvg-name="Now 直播" tvg-logo="https://isus.cc/share/logo/星視界/Now 直播.png" group-title="香港頻道",Now 直播
+#EXTINF:-1 tvg-name="Now 直播" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/zh_tw/color/ch331_160_115" group-title="香港頻道",Now 直播
 http://a.vb.cc.ua/now/331/master.m3u8
 
-#EXTINF:-1 tvg-name="Now 英超" tvg-logo="https://isus.cc/share/logo/星視界/Now 英超.png" group-title="香港頻道",Now 英超
+#EXTINF:-1 tvg-name="Now Sports Prime" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/zh_tw/color/ch620_160_115" group-title="香港頻道",Now 英超
 http://a.vb.cc.ua/now/630/master.m3u8
 
 #EXTINF:-1 tvg-name="麥哲倫頻道" tvg-logo="https://epg.pw/media/images/epg/2025/03/01/20250301050105373432_94.png" group-title="台灣頻道",麥哲倫頻道
