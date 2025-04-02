@@ -162,3 +162,6 @@ http://php.jdshipin.com/TVOD/iptv.php?id=yzwx
 
 #EXTINF:-1 tvg-name="Now新聞" tvg-logo="https://live.wzi.me/tv/Now新聞.png" group-title="香港頻道",Now新聞
 http://a.vb.cc.ua/now/332/master.m3u8
+
+#EXTINF:-1 tvg-name="麥哲倫頻道" tvg-logo="https://live.wzi.me/tv/麥哲倫頻道.png" group-title="台灣頻道",麥哲倫頻道
+http://a.vb.cc.ua/50007/4gtv-live123/master.m3u8
