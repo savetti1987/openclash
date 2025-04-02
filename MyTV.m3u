@@ -99,6 +99,9 @@ http://a.vb.cc.ua/50007/4gtv-live123/master.m3u8
 #EXTINF:-1 tvg-name="靖天國際台" tvg-logo="https://isus.cc/share/logo/靖天國際台.png" group-title="台灣頻道",靖天國際台
 http://a.vb.cc.ua/50007/4gtv-4gtv063/master.m3u8
 
+#EXTINF:-1 tvg-name="緯來電影" tvg-logo="https://isus.cc/share/logo/緯來電影.png" group-title="台灣頻道",緯來電影
+http://122.117.71.103:8554/http/61.222.53.250:8081/hls/69/811/ch35.m3u8
+
 #EXTINF:-1 tvg-name="極限台" tvg-logo="https://epg.pw/media/images/epg/2024/06/11/20240611160657599970_96.jpg" group-title="待整理",極限台
 https://z88.ubtvfans.com/live/rx3/405/3173a543a9c92b07348ba90c2a3e833e/index.m3u8
 
