@@ -1,49 +1,7 @@
 #EXTM3U
 #EXTM3U x-tvg-url="https://assets.livednow.com/epg.xml,https://epg.112114.xyz/pp.xml.gz"
-#EXTINF:-1 tvg-name="极限台" tvg-logo="https://assets.livednow.com/logo/极限台.png" group-title="台灣頻道",极限台
+#EXTINF:-1 tvg-name="极限台" tvg-logo="https://assets.livednow.com/logo/极限台.png" group-title="待整理",极限台
 https://z88.ubtvfans.com/live/rx3/405/3173a543a9c92b07348ba90c2a3e833e/index.m3u8
-
-#EXTINF:-1 tvg-name="极限台（備）" tvg-logo="https://assets.livednow.com/logo/极限台.png" group-title="台灣頻道",极限台（備）
-https://hyf000.eu.org/live/80947108.php?id=Jstar
-
-#EXTINF:-3 tvg-name="東森洋片" tvg-logo="https://assets.livednow.com/logo/東森洋片.png" group-title="台灣頻道",東森洋片
-https://stream1.freetv.fun/dong-sen-yang-pian-5.ctv
-
-#EXTINF:-3 tvg-name="東森洋片（備用）" tvg-logo="https://assets.livednow.com/logo/東森洋片.png" group-title="台灣頻道",東森洋片（備用）
-https://stream1.freetv.fun/36c36c10c753997dd33f30ba27722c8ed095ca8a26b487b9dd499309d7726b0a.m3u8
-
-#EXTINF:-1 tvg-name="緯來日本" tvg-logo="https://live.fanmingming.cn/tv/緯來日本.png" group-title="台灣頻道",緯來日本
-rtmp://f13h.mine.nu/sat/tv771
-
-#EXTINF:-3 tvg-name="緯來電影" tvg-logo="https://assets.livednow.com/logo/纬来電影.png" group-title="台灣頻道",緯來電影
-https://stream1.freetv.fun/wei-lai-dian-ying-2.m3u8
-
-#EXTINF:-1 tvg-name="緯來體育" tvg-logo="https://live.fanmingming.cn/tv/緯來體育.png" group-title="台灣頻道",緯來體育
-rtmp://f13h.mine.nu/sat/tv721
-
-#EXTINF:-3 tvg-name="三立戏剧" tvg-logo="https://assets.livednow.com/logo/三立戏剧.png" group-title="台灣頻道",三立戏剧
-https://stream1.freetv.fun/san-li-xi-ju-4.m3u8
-
-#EXTINF:-3 tvg-name="龍華經典" tvg-logo="https://assets.livednow.com/logo/龍華經典.png" group-title="台灣頻道",龍華經典
-https://tv.cdn8.rr.nu/live/lhjd/stream.m3u8
-
-#EXTINF:-2 tvg-name="龍華洋片" tvg-logo="https://assets.livednow.com/logo/龍華洋片.png" group-title="台灣頻道",龍華洋片
-https://tv.cdn8.rr.nu/live/lhyp/stream.m3u8
-
-#EXTINF:-1,tvg-id="广东珠江" tvg-name="广东珠江" tvg-logo="https://epg.v1.mk/logo/广东珠江.png" group-title="廣東頻道",广东珠江
-http://cdn2.163189.xyz/live/gdzj/stream.m3u8
-
-#EXTINF:-1,tvg-id="广东民生" tvg-name="广东民生" tvg-logo="https://epg.v1.mk/logo/广东民生.png" group-title="廣東頻道",广东民生
-https://mytv.cdn.com.mp/gdminsheng/index.m3u8
-
-#EXTINF:-1,tvg-id="广东民生（備用）" tvg-name="广东民生（備用）" tvg-logo="https://epg.v1.mk/logo/广东民生.png" group-title="廣東頻道",广东民生(備用)
-https://stream1.freetv.fun/2354bc4edf14a9ba6814c448e808d276bbca0f1fe8133b1e0812e0322ce83beb.ctv
-
-#EXTINF:-1,tvg-id="東森電影" tvg-name="東森電影" tvg-logo="https://assets.livednow.com/logo/东森電影.png" group-title="台灣頻道",東森電影
-https://stream1.freetv.fun/e0eb43da03e796ba7ff0f0e15429a4f5e0f86365a1a47198869e5cf35a47096e.ctv
-
-#EXTINF:-1 tvg-id="好莱坞电影" tvg-name="好莱坞电影" tvg-logo="https://assets.livednow.com/logo/好莱坞电影.png" group-title="台灣頻道",好來坞電影
-https://stream1.freetv.fun/hao-lai-wu-dian-ying-4.ctv
 
 #EXTINF:-1 group-title="體育頻道",J Sport3
 http://luong.utako.moe/js3/index.m3u8
@@ -59,21 +17,6 @@ https://stream1.freetv.fun/98683be37081134e9a63bfa138b66090ab3b337ff11623816874e
 
 #EXTINF:-1 group-title="待整理",Hustler HD
 https://stream1.freetv.fun/a60e38d38ac5fdb7d085115be5895fade1195be688a5660ab973f6b84404add8.m3u8
-
-#EXTINF:-1 group-title="西語頻道",HBO
-https://stream1.freetv.fun/hbo-15.ctv
-
-#EXTINF:-1,tvg-id="Catchplay" tvg-name="Catchplay" tvg-logo="https://live.fanmingming.cn/tv/Catchplay.png" group-title="台灣頻道",Catchplay
-https://stream1.freetv.fun/catchplay-1.ctv
-
-#EXTINF:-1 group-title="西語頻道",Discovery Asia
-https://stream1.freetv.fun/discovery-asia-1.ctv
-
-#EXTINF:-1 group-title="西語頻道",HBO Family
-https://stream1.freetv.fun/hbo-family-10.ctv
-
-#EXTINF:-1 group-title="西語頻道",CinemaX
-https://stream1.freetv.fun/cinemax-8.ctv
 
 #EXTM3U x-tvg-url="https://live.wzi.me/epg.xml,https://epg.112114.xyz/pp.xml.gz"
 #EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://live.wzi.me/tv/翡翠台.png" group-title="香港頻道",翡翠台
