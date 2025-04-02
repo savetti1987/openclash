@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTM3U x-tvg-url="https://assets.livednow.com/epg.xml,https://epg.112114.xyz/pp.xml.gz"
-#EXTINF:-1 tvg-name="极限台" tvg-logo="https://assets.livednow.com/logo/极限台.png" x-tvg-url="https://epg.pw/api/epg.xml?lang=zh-hant&date=20250402&channel_id=369157" group-title="待整理",极限台
+#EXTINF:-1 tvg-name="极限台" tvg-logo="https://assets.livednow.com/logo/极限台.png" group-title="待整理",极限台
 https://z88.ubtvfans.com/live/rx3/405/3173a543a9c92b07348ba90c2a3e833e/index.m3u8
 
 #EXTINF:-1 group-title="體育頻道",J Sport3
