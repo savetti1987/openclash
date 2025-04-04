@@ -1,4 +1,4 @@
-#EXTM3U
+e#EXTM3U
 #EXTM3U x-tvg-url="https://assets.livednow.com/epg.xml,https://live.wzi.me/e.xml,https://epg.112114.xyz/pp.xml.gz"
 #EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://live.wzi.me/tv/翡翠台.png" group-title="香港頻道",翡翠台
 http://php.jdshipin.com:8880/smt.php?id=jade_twn
@@ -102,8 +102,8 @@ http://a.vb.cc.ua/50007/4gtv-live123/master.m3u8
 #EXTINF:-1 tvg-name="靖天國際台" tvg-logo="https://isus.cc/share/logo/靖天國際台.png" group-title="台灣頻道",靖天國際台
 http://a.vb.cc.ua/50007/4gtv-4gtv063/master.m3u8
 
-#EXTINF:-1 tvg-name="緯來電影" tvg-logo="https://isus.cc/share/logo/緯來電影.png" group-title="台灣頻道",緯來電影
-http://122.117.71.103:8554/http/61.222.53.250:8081/hls/69/811/ch35.m3u8
+#EXTINF:-1 tvg-name="HBO Hits" tvg-logo="https://isus.cc/share/logo/HBO Hits.png" group-title="西語頻道",HBO Hits
+http://www.pelotas.org:8278/hbohits_twn/playlist.m3u8?tid=MD6D2840178228401782&ct=20182&tsum=b27398716b14e2541ddeca9b6d631630
 
 #EXTINF:-1 tvg-name="ELEVEN体育1" tvg-logo="https://live.fanmingming.cn/tv/ELEVEN体育1.png" group-title="體育頻道",ELEVEN体育1
 rtmp://f13h.mine.nu/sat/tv731
