@@ -383,7 +383,7 @@ https://pixman.mytvsuper.com.mp/Smart.php?id=Rockentertain
 https://pixman.mytvsuper.com.mp/Smart.php?id=natgeohd_twn
 #EXTINF:-1 tvg-name="NatGeo_Wild HD" group-title="纪录频道",NatGeo_Wild HD
 https://pixman.mytvsuper.com.mp/Smart.php?id=natgeowild_twn
-#EXTINF:-1 tvg-name="Animal_Planet" group-title="纪录频道"Animal_Planet
+#EXTINF:-1 tvg-name="Animal_Planet" group-title="纪录频道",Animal_Planet
 https://pixman.mytvsuper.com.mp/Smart.php?id=animalplanet_twn
 #EXTINF:-1 tvg-name="Discovery Asia" group-title="纪录频道",Discovery Asia
 https://pixman.mytvsuper.com.mp/Smart.php?id=discoverytwn_twn
@@ -487,7 +487,7 @@ https://pixman.mytvsuper.com.mp/Smart.php?id=Mewatch_Vasantham
 https://pixman.mytvsuper.com.mp/Smart.php?id=Mewatch_cna
 #EXTINF:-1 tvg-name="TV1" group-title="大馬台 | MA",TV1
 https://pixman.mytvsuper.com.mp/Smart.php?id=TV1
-#EXTINF:-1 tvg-name="TV1 backup" group-title="大馬台 | MA"TV1 backup
+#EXTINF:-1 tvg-name="TV1 backup" group-title="大馬台 | MA",TV1 backup
 https://pixman.mytvsuper.com.mp/Smart.php?id=TV1_backup
 #EXTINF:-1 tvg-name="TV2" group-title="大馬台 | MA",TV2
 https://pixman.mytvsuper.com.mp/Smart.php?id=TV2
@@ -575,8 +575,8 @@ https://pixman.mytvsuper.com.mp/Smart.php?id=Aodhd
 https://pixman.mytvsuper.com.mp/Smart.php?id=Xinhe
 #EXTINF:-1 tvg-name="爱奇艺 iQiyi" group-title="大馬台 | MA",爱奇艺 iQiyi
 https://pixman.mytvsuper.com.mp/Smart.php?id=Qiyi
-#EXTINF:-1 tvg-name="Goshop" group-title="大馬台 | MA",
-https://pixman.mytvsuper.com.mp/Smart.php?id=GoshopGoshop
+#EXTINF:-1 tvg-name="Goshop" group-title="大馬台 | MA",Goshop
+https://pixman.mytvsuper.com.mp/Smart.php?id=Goshop
 #EXTINF:-1 tvg-name="天映频道马来台" group-title="大馬台 | MA",天映频道马来台
 https://pixman.mytvsuper.com.mp/Smart.php?id=Celestial
 #EXTINF:-1 tvg-name="Astro LOL" group-title="大馬台 | MA",Astro LOL
@@ -585,10 +585,10 @@ https://pixman.mytvsuper.com.mp/Smart.php?id=Astro_lol
 https://pixman.mytvsuper.com.mp/Smart.php?id=Rusi
 #EXTINF:-1 tvg-name="WION" group-title="大馬台 | MA",WION
 https://pixman.mytvsuper.com.mp/Smart.php?id=Wion
-#EXTINF:-1 tvg-name="RTM Asean" group-title="大馬台 | MA"RTM Asean
+#EXTINF:-1 tvg-name="RTM Asean" group-title="大馬台 | MA",RTM Asean
 https://pixman.mytvsuper.com.mp/Smart.php?id=Rtmasean
-#EXTINF:-1 tvg-name="TVRI National" group-title="印度尼西亚 | IDN",
-https://pixman.mytvsuper.com.mp/Smart.php?id=TVRITVRI National
+#EXTINF:-1 tvg-name="TVRI National" group-title="印度尼西亚 | IDN",TVRI National
+https://pixman.mytvsuper.com.mp/Smart.php?id=TVRI
 #EXTINF:-1 tvg-name="RCTI" group-title="印度尼西亚 | IDN",RCTI
 https://pixman.mytvsuper.com.mp/Smart.php?id=Rcti
 #EXTINF:-1 tvg-name="Kompass TV" group-title="印度尼西亚 | IDN",Kompass TV
@@ -605,7 +605,7 @@ https://pixman.mytvsuper.com.mp/Smart.php?id=Mnctv
 https://pixman.mytvsuper.com.mp/Smart.php?id=Trans7_eko
 #EXTINF:-1 tvg-name="Transtv" group-title="印度尼西亚 | IDN",Transtv
 https://pixman.mytvsuper.com.mp/Smart.php?id=Transtv
-#EXTINF:-1 tvg-name="JTV" group-title="印度尼西亚 | IDN"JTV,
+#EXTINF:-1 tvg-name="JTV" group-title="印度尼西亚 | IDN",JTV
 https://pixman.mytvsuper.com.mp/Smart.php?id=JTV_eko
 #EXTINF:-1 tvg-name="Metro TV" group-title="印度尼西亚 | IDN",Metro TV
 https://pixman.mytvsuper.com.mp/Smart.php?id=metrotv_eko
@@ -613,7 +613,7 @@ https://pixman.mytvsuper.com.mp/Smart.php?id=metrotv_eko
 https://pixman.mytvsuper.com.mp/Smart.php?id=SCTV
 #EXTINF:-1 tvg-name="Tvone" group-title="印度尼西亚 | IDN",Tvone
 https://pixman.mytvsuper.com.mp/Smart.php?id=Tvone
-#EXTINF:-1 tvg-name="TVMU" group-title="印度尼西亚 | IDN"TVMU,
+#EXTINF:-1 tvg-name="TVMU" group-title="印度尼西亚 | IDN"TVMU
 https://pixman.mytvsuper.com.mp/Smart.php?id=TVMU_eko
 #EXTINF:-1 tvg-name="GTV" group-title="印度尼西亚 | IDN",GTV
 https://pixman.mytvsuper.com.mp/Smart.php?id=Gtv
@@ -623,7 +623,7 @@ https://pixman.mytvsuper.com.mp/Smart.php?id=Rtv
 https://pixman.mytvsuper.com.mp/Smart.php?id=JakTV
 #EXTINF:-1 tvg-name="iNews TV" group-title="印度尼西亚 | IDN",iNews TV
 https://pixman.mytvsuper.com.mp/Smart.php?id=Inewstv
-#EXTINF:-1 tvg-name="Daai TV" group-title="印度尼西亚 | IDN"Daai TV,
+#EXTINF:-1 tvg-name="Daai TV" group-title="印度尼西亚 | IDN",Daai TV
 https://pixman.mytvsuper.com.mp/Smart.php?id=DaaiTV
 #EXTINF:-1 tvg-name="Net TV" group-title="印度尼西亚 | IDN"Net TV,
 https://pixman.mytvsuper.com.mp/Smart.php?id=NetTV
@@ -631,7 +631,7 @@ https://pixman.mytvsuper.com.mp/Smart.php?id=NetTV
 https://pixman.mytvsuper.com.mp/Smart.php?id=Ewtn
 #EXTINF:-1 tvg-name="AlQuran AlKareem" group-title="印度尼西亚 | IDN",AlQuran AlKareem
 https://pixman.mytvsuper.com.mp/Smart.php?id=AlQuran
-#EXTINF:-1 tvg-name="Tawaf TV" group-title="印度尼西亚 | IDNTawaf TV",
+#EXTINF:-1 tvg-name="Tawaf TV" group-title="印度尼西亚 | IDN",Tawaf TV
 https://pixman.mytvsuper.com.mp/Smart.php?id=TawafTV
 #EXTINF:-1 tvg-name="Vision Prime" group-title="印度尼西亚 | IDN",Vision Prime
 https://pixman.mytvsuper.com.mp/Smart.php?id=VisionPrime
@@ -731,7 +731,7 @@ https://pixman.mytvsuper.com.mp/Smart.php?id=ch8_pat
 https://pixman.mytvsuper.com.mp/Smart.php?id=gmmone_pat
 #EXTINF:-1 tvg-name="Mono" group-title="泰国 | Thai",Mono
 https://pixman.mytvsuper.com.mp/Smart.php?id=mono_pat
-#EXTINF:-1 tvg-name="Thairath" group-title="泰国 | Thai"Thairath
+#EXTINF:-1 tvg-name="Thairath" group-title="泰国 | Thai",Thairath
 https://pixman.mytvsuper.com.mp/Smart.php?id=thairath_pat
 #EXTINF:-1 tvg-name="tpbs" group-title="泰国 | Thai",tpbs
 https://pixman.mytvsuper.com.mp/Smart.php?id=tpbs_pat
@@ -813,7 +813,7 @@ https://pixman.mytvsuper.com.mp/Smart.php?id=sbsplus_korea
 https://pixman.mytvsuper.com.mp/Smart.php?id=ytn_korea
 #EXTINF:-1 tvg-name="KBS World 24" group-title="韩国 | KOR",KBS World 24
 https://pixman.mytvsuper.com.mp/Smart.php?id=kbsworld24_korea
-#EXTINF:-1 tvg-name="YTN Science" group-title="韩国 | KOR"YTN Science
+#EXTINF:-1 tvg-name="YTN Science" group-title="韩国 | KOR",YTN Science
 https://pixman.mytvsuper.com.mp/Smart.php?id=ytnscience_korea
 #EXTINF:-1 tvg-name="YTN Korean" group-title="韩国 | KOR",YTN Korean
 https://pixman.mytvsuper.com.mp/Smart.php?id=ytnkorean_korea
@@ -833,8 +833,8 @@ https://pixman.mytvsuper.com.mp/Smart.php?id=cgntv_korea
 https://pixman.mytvsuper.com.mp/Smart.php?id=nhkg_japan
 #EXTINF:-1 tvg-name="NHK-E" group-title="日本 | JP",NHK-E
 https://pixman.mytvsuper.com.mp/Smart.php?id=nhke_japan
-#EXTINF:-1 tvg-name="テレビ朝日 Asahi TV" group-title="日本 | JP",
-https://pixman.mytvsuper.com.mp/Smart.php?id=asahitv_japanテレビ朝日 Asahi TV
+#EXTINF:-1 tvg-name="テレビ朝日 Asahi TV" group-title="日本 | JP",テレビ朝日 Asahi TV
+https://pixman.mytvsuper.com.mp/Smart.php?id=asahitv_japan
 #EXTINF:-1 tvg-name="JET 綜合" group-title="日本 | JP",JET 綜合
 https://pixman.mytvsuper.com.mp/Smart.php?id=jettv_japan
 #EXTINF:-1 tvg-name="テレビ東京 Tokyo TV" group-title="日本 | JP",テレビ東京 Tokyo TV
