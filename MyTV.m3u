@@ -108,13 +108,13 @@ http://www.pelotas.org:8278/hbohits_twn/playlist.m3u8?tid=MBBB4268419842684198&c
 #EXTINF:-1 tvg-name="HBO" tvg-logo="https://isus.cc/share/logo/HBO.png" group-title="西語頻道",HBO
 http://www.pelotas.org:8278/hbohd_twn/playlist.m3u8?tid=MF9F4740058147400581&ct=20182&tsum=0e4017896d8c1464153e8f1a2b6383c8
 
-#EXTINF:-1 tvg-name="ELEVEN体育1" tvg-logo="https://live.fanmingming.cn/tv/ELEVEN体育1.png" group-title="體育頻道",ELEVEN体育1
+#EXTINF:-1 tvg-name="ADZN1" tvg-logo="https://live.fanmingming.cn/tv/ELEVEN体育1.png" group-title="體育頻道",ELEVEN体育1
 rtmp://f13h.mine.nu/sat/tv731
 
-#EXTINF:-1 tvg-name="ELEVEN体育2" tvg-logo="https://live.fanmingming.cn/tv/ELEVEN体育2.png" group-title="體育頻道",ELEVEN体育2
+#EXTINF:-1 tvg-name="ADZN2" tvg-logo="https://live.fanmingming.cn/tv/ELEVEN体育2.png" group-title="體育頻道",ELEVEN体育2
 rtmp://f13h.mine.nu/sat/tv741
 
-#EXTINF:-1 tvg-name="ELEVEN体育3" tvg-logo="https://live.fanmingming.cn/tv/ELEVEN体育3.png" group-title="體育頻道",ELEVEN体育3
+#EXTINF:-1 tvg-name="ADZN3" tvg-logo="https://live.fanmingming.cn/tv/ELEVEN体育3.png" group-title="體育頻道",ELEVEN体育3
 rtmp://f13h.mine.nu/sat/tv751
 
 #EXTINF:-1 tvg-name="極限台" tvg-logo="https://epg.pw/media/images/epg/2024/06/11/20240611160657599970_96.jpg" group-title="待整理",極限台
