@@ -140,3 +140,9 @@ http://ali.hlspull.yximgs.com/live/0e9e38709bf831eaba801769bb8c1c82.flv
 
 #EXTINF:-1 tvg-name="MTV" tvg-logo="https://isus.cc/share/logo/MTV.png" group-title="台灣頻道",MTV
 http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/mtvhd_twn/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Now 爆谷台" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/zh_tw/color/ch138_160_115" group-title="香港頻道",Now 爆谷台
+http://ali.hlspull.yximgs.com/live/0b4586427ee960e494cfa96dc16c7d9c.flv
+
+#EXTINF:-1 tvg-name="Now 星影台" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/zh_tw/color/ch133_160_115" group-title="香港頻道",Now 星影台
+http://ali.hlspull.yximgs.com/live/7bbe04000d6b47195d9d57f5c67b75b4.flv
