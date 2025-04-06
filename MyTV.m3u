@@ -141,8 +141,8 @@ http://ali.hlspull.yximgs.com/live/0e9e38709bf831eaba801769bb8c1c82.flv
 #EXTINF:-1 tvg-name="MTV" tvg-logo="https://isus.cc/share/logo/MTV.png" group-title="台灣頻道",MTV
 http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/mtvhd_twn/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Hami 體育1台" group-title="體育頻道",Hami 體育2台
+#EXTINF:-1 tvg-name="Hami 體育1台" group-title="體育頻道",Hami 體育1台
 https://hamiai-hamivideo.cdn.hinet.net/live/pool/hamitv-live880/hls-cl-fhd-2s15-ma-ts/index.m3u8?url_type=&token=ChtUVBIZltyztIT4JPoSig&expires=1743937650&content_pk=OTT_LIVE_0000002089
 
 #EXTINF:-1 tvg-name="Hami 體育2台" group-title="體育頻道",Hami 體育2台
-https://hamiai-hamivideo.cdn.hinet.net/live/pool/hamitv-live880/hls-cl-fhd-2s15-ma-ts/index.m3u8?url_type=&token=ChtUVBIZltyztIT4JPoSig&expires=1743937650&content_pk=OTT_LIVE_0000002089&content_pk=OTT_LIVE_0000002089
+https://weblivea-hamivideo.cdn.hinet.net/live/pool/hamitv-live881/hls-ae-fhd-2s-ch/index.m3u8?url_type=&token=0y92kTm5UZ5rUstPO-MBUw&expires=1743937595&content_pk=OTT_LIVE_0000002090
