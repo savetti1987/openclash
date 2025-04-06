@@ -147,5 +147,11 @@ https://hamiai-hamivideo.cdn.hinet.net/live/pool/hamitv-live880/hls-cl-fhd-2s15-
 #EXTINF:-1 tvg-name="Hami 體育2台" group-title="體育頻道",Hami 體育2台
 https://weblivea-hamivideo.cdn.hinet.net/live/pool/hamitv-live881/hls-ae-fhd-2s-ch/index.m3u8?url_type=&token=0y92kTm5UZ5rUstPO-MBUw&expires=1743937595&content_pk=OTT_LIVE_0000002090
 
-#EXTINF:-1 tvg-name="Hami 日漫台" group-title="台灣頻道",Hami 日漫台
+#EXTINF:-1 tvg-name="Rook Extreme" group-title="台灣頻道",Rook Extreme
 https://mobilelivead-hamivideo.cdn.hinet.net/out/u/live/gop1/cht/hamitv-live110/hls-ae-tv/index_5.m3u8?url_type=&token=TgKXPXxxRA1EIjfJuHnJWg&expires=1743937478&content_pk=OTT_LIVE_0000002061
+
+#EXTINF:-1 tvg-name="HBLTV1台" group-title="台灣頻道",HBLTV1台
+https://weblivea-hamivideo.cdn.hinet.net/live/pool/hamitv-live082/hls-ae-hd-4s-ch/index.m3u8?url_type=&token=dWFl9VktFNseKAQlJFzrlA&expires=1743937209&content_pk=OTT_LIVE_0000002062
+
+#EXTINF:-1 tvg-name="HBLTV2台" group-title="台灣頻道",HBLTV2台
+https://weblivea-hamivideo.cdn.hinet.net/live/pool/hamitv-live083/hls-ae-hd-4s-ch/index.m3u8?url_type=&token=i15wTOEOEXf3ds1CmPgSVg&expires=1743937347&content_pk=OTT_LIVE_0000002063
