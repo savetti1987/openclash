@@ -93,6 +93,9 @@ http://a.ru8.dpdns.org/now/332/master.m3u8
 #EXTINF:-1 tvg-name="Now 直播台" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/zh_tw/color/ch331_160_115" group-title="香港頻道",Now 直播台
 http://a.ru8.dpdns.org/now/331/master.m3u8
 
+#EXTINF:-1 tvg-name="Now 华剧台" tvg-logo="https://isus.cc/share/logo/星視界/Now 华剧台.png" group-title="香港頻道",Now 华剧台
+http://a.ru8.dpdns.org/now/105/master.m3u8
+
 #EXTINF:-1 tvg-name="Now Sports Prime" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/zh_tw/color/ch630_160_115" group-title="體育頻道",Now Sports Prime
 http://a.ru8.dpdns.org/now/630/master.m3u8
 
@@ -156,5 +159,3 @@ https://weblivea-hamivideo.cdn.hinet.net/live/pool/hamitv-live082/hls-ae-hd-4s-c
 #EXTINF:-1 tvg-name="HBLTV2台" group-title="台灣頻道",HBLTV2台
 https://weblivea-hamivideo.cdn.hinet.net/live/pool/hamitv-live083/hls-ae-hd-4s-ch/index.m3u8?url_type=&token=i15wTOEOEXf3ds1CmPgSVg&expires=1743937347&content_pk=OTT_LIVE_0000002063
 
-#EXTINF:-1 tvg-name="Now 华剧台" tvg-logo="https://isus.cc/share/logo/星視界/Now 华剧台.png" group-title="香港頻道",Now 华剧台
-http://a.ru8.dpdns.org/now/105/master.m3u8
