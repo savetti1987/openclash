@@ -3,7 +3,7 @@
 #EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://live.wzi.me/tv/翡翠台.png" group-title="香港頻道",翡翠台
 http://php.jdshipin.com:8880/smt.php?id=jade_twn
 
-#EXTINF:-1 tvg-name="华丽翡翠台" tvg-logo="https://live.wzi.me/tv/翡翠台.png" group-title="大馬频道",华丽翡翠台
+#EXTINF:-1 tvg-name="华丽翡翠台" tvg-logo="https://live.wzi.me/tv/翡翠台.png" group-title="大馬頻道",华丽翡翠台
 http://php.jdshipin.com:8880/smt.php?id=Tvbjade
 
 #EXTINF:-1 tvg-name="TVB星河" tvg-logo="https://live.wzi.me/tv/TVB星河.png" group-title="香港頻道",TVB星河
@@ -45,7 +45,7 @@ http://php.jdshipin.com:8880/smt.php?id=Tvbclassic
 #EXTINF:-1 tvg-name="美亚电影台" tvg-logo="https://isus.cc/share/logo/星視界/美亚电影台.png" group-title="香港頻道",美亚电影台
 http://php.jdshipin.com:8880/smt.php?id=meiyamovie_twn
 
-#EXTINF:-1 tvg-name="天映頻道" tvg-logo="https://live.wzi.me/tv/天映頻道.png" group-title="大馬频道",天映頻道
+#EXTINF:-1 tvg-name="天映頻道" tvg-logo="https://live.wzi.me/tv/天映頻道.png" group-title="大馬頻道",天映頻道
 http://php.jdshipin.com:8880/smt.php?id=Celestial
 
 #EXTINF:-1 tvg-name="天映經典" tvg-logo="https://isus.cc/share/logo/星視界/天映经典.png" group-title="香港頻道",天映經典
@@ -60,22 +60,22 @@ http://php.jdshipin.com:8880/smt.php?id=phoenixinfo_hd
 #EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://live.wzi.me/tv/凤凰香港.png" group-title="香港頻道",凤凰香港
 http://php.jdshipin.com:8880/smt.php?id=hkphoenix_twn
 
-#EXTINF:-1 tvg-name="八度空间" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6d/Logo_8TV_Malaysia.png" group-title="大馬频道",八度空间
+#EXTINF:-1 tvg-name="八度空间" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6d/Logo_8TV_Malaysia.png" group-title="大馬頻道",八度空间
 http://php.jdshipin.com:8880/smt.php?id=TV8
 
-#EXTINF:-1 tvg-name="Astro AOD" tvg-logo="https://epg.pw/media/images/epg/2024/06/09/20240609081008343330_76.png" group-title="大馬频道",Astro AOD
+#EXTINF:-1 tvg-name="Astro AOD" tvg-logo="https://epg.pw/media/images/epg/2024/06/09/20240609081008343330_76.png" group-title="大馬頻道",Astro AOD
 http://php.jdshipin.com:8880/smt.php?id=Aodhd
 
-#EXTINF:-1 tvg-name="Astro AEC" tvg-logo="https://epg.pw/media/images/epg/2024/06/09/20240609081026946415_83.png" group-title="大馬频道",Astro AEC
+#EXTINF:-1 tvg-name="Astro AEC" tvg-logo="https://epg.pw/media/images/epg/2024/06/09/20240609081026946415_83.png" group-title="大馬頻道",Astro AEC
 http://php.jdshipin.com:8880/smt.php?id=AEC
 
-#EXTINF:-1 tvg-name="爱奇艺" tvg-logo="https://isus.cc/share/logo/星視界/Astro 爱奇艺.png" group-title="大馬频道",爱奇艺
+#EXTINF:-1 tvg-name="爱奇艺" tvg-logo="https://isus.cc/share/logo/星視界/Astro 爱奇艺.png" group-title="大馬頻道",爱奇艺
 http://php.jdshipin.com:8880/smt.php?id=Qiyi
 
-#EXTINF:-1 tvg-name="Astro QJ" tvg-logo="https://epg.pw/media/images/epg/2024/06/09/20240609080929884114_31.png" group-title="大馬频道",Astro QJ
+#EXTINF:-1 tvg-name="Astro QJ" tvg-logo="https://epg.pw/media/images/epg/2024/06/09/20240609080929884114_31.png" group-title="大馬頻道",Astro QJ
 http://php.jdshipin.com:8880/smt.php?id=Quanjia
 
-#EXTINF:-1 tvg-name="Astro欢喜台" tvg-logo="https://epg.pw/media/images/epg/2024/06/09/20240609080949070325_14.png" group-title="大馬频道",Astro欢喜台
+#EXTINF:-1 tvg-name="Astro欢喜台" tvg-logo="https://epg.pw/media/images/epg/2024/06/09/20240609080949070325_14.png" group-title="大馬頻道",Astro欢喜台
 http://php.jdshipin.com:8880/smt.php?id=Huahee
 
 #EXTINF:-1 tvg-name="Hoy77" tvg-logo="https://isus.cc/share/logo/HOYTV.png" group-title="香港頻道",Hoy77
