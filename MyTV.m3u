@@ -25,13 +25,13 @@ http://php.jdshipin.com:8880/smt.php?id=Tvbentertainment
 http://php.jdshipin.com/TVOD/iptv.php?id=viutv2
 
 #EXTINF:-1 tvg-name="ViuTV HD" tvg-logo="https://live.wzi.me/tv/ViuTV.png" group-title="香港頻道",ViuTV HD
-http://a.ru8.dpdns.org/now/099/master.m3u8
+http://p.168.us.kg/now/99/master.m3u8
 
 #EXTINF:-1 tvg-name="ViuTVSix" tvg-logo="https://live.wzi.me/tv/ViuTVSix.png" group-title="香港頻道",ViuTVSix
 http://php.jdshipin.com:8880/smt.php?id=viusix_twn
 
 #EXTINF:-1 tvg-name="ViuTV 6 HD" tvg-logo="http://live.wzi.me/tv/ViuTVSix.png" group-title="香港頻道",ViuTV 6 HD
-https://a.ru8.dpdns.org/now/096/master.m3u8
+http://p.168.us.kg/now/96/master.m3u8
 
 #EXTINF:-1 tvg-name="RTHK31" tvg-logo="https://live.wzi.me/tv/RTHK31.png" group-title="香港頻道",RTHK31
 http://php.jdshipin.com:8880/smt.php?id=rhk31_twn
@@ -88,22 +88,22 @@ http://a.ru8.dpdns.org/hoy/78/master.m3u8
 http://php.jdshipin.com/TVOD/iptv.php?id=yzwx
 
 #EXTINF:-1 tvg-name="Now 新聞台" tvg-logo="https://isus.cc/share/logo/星視界/Now 新闻台.png" group-title="香港頻道",Now 新聞台
-http://a.ru8.dpdns.org/now/332/master.m3u8
+http://p.168.us.kg/now/332/master.m3u8
 
 #EXTINF:-1 tvg-name="Now 直播台" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/zh_tw/color/ch331_160_115" group-title="香港頻道",Now 直播台
-http://a.ru8.dpdns.org/now/331/master.m3u8
+http://p.168.us.kg/now/331/master.m3u8
 
 #EXTINF:-1 tvg-name="Now 华剧台" tvg-logo="https://isus.cc/share/logo/星視界/Now 華劇台.png" group-title="香港頻道",Now 華劇台
-http://a.ru8.dpdns.org/now/105/master.m3u8
+http://p.168.us.kg/now/105/master.m3u8
 
 #EXTINF:-1 tvg-name="Now Sports Prime" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/zh_tw/color/ch630_160_115" group-title="體育頻道",Now Sports Prime
-http://a.ru8.dpdns.org/now/630/master.m3u8
+http://p.168.us.kg/now//master.m3u8
 
 #EXTINF:-1 tvg-name="麥哲倫頻道" tvg-logo="https://epg.pw/media/images/epg/2025/03/01/20250301050105373432_94.png" group-title="台灣頻道",麥哲倫頻道
-http://a.ru8.dpdns.org/50007/4gtv-live123/master.m3u8
+http://p.168.us.kg/50007/4gtv-live123/master.m3u8
 
 #EXTINF:-1 tvg-name="靖天國際台" tvg-logo="https://isus.cc/share/logo/靖天國際台.png" group-title="台灣頻道",靖天國際台
-http://a.ru8.dpdns.org/50007/4gtv-4gtv063/master.m3u8
+http://p.168.us.kg/50007/4gtv-4gtv063/master.m3u8
 
 #EXTINF:-1 tvg-name="HBO Hits" tvg-logo="https://isus.cc/share/logo/HBO Hits.png" group-title="西語頻道",HBO Hits
 https://pixman.mytvsuper.com.mp/Smart.php?id=Hbohitshd
