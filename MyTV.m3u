@@ -145,7 +145,7 @@ http://ali.hlspull.yximgs.com/live/1d7a0c66d87f36e34bb19f577c908403.flv
 http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/mtvhd_twn/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Hami 體育1台" group-title="體育頻道",Hami 體育1台
-https://hamiai-hamivideo.cdn.hinet.net/live/pool/hamitv-live880/hls-cl-fhd-2s15-ma-ts/index.m3u8?url_type=&token=ChtUVBIZltyztIT4JPoSig&expires=1743937650&content_pk=OTT_LIVE_0000002089
+http://150.138.77.132:10037/150.php?id=
 
 #EXTINF:-1 tvg-name="e 视" group-title="大馬頻道",e 视
 http://p.168.us.kg/now/e/master.m3u8
