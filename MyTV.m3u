@@ -6,8 +6,11 @@
 #KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "LS/XsWYbHijeOCaIcrSEgA", "kid": "CVi5xldiLEZaYgXrIlK47Q"}], "type": "temporary"}
 http://edgeware-live.edgeware.tvb.com/__cl/slocalr43/__c/ott_J_hevc/__op/cenc_m/__f/index.mpd?sig=ba4c8daf634f02c37ad52784f6045929&ext_start_limit=1744398977&int_start_limit=1744398977&ts=1744398977&c=339313918
 
-#EXTINF:-1 tvg-name="华丽翡翠台" tvg-logo="https://live.wzi.me/tv/翡翠台.png" group-title="大馬頻道",华丽翡翠台
-http://php.jdshipin.com:8880/smt.php?id=Tvbjade
+#EXTINF:-1 tvg-name="黄金翡翠台" tvg-logo="https://live.wzi.me/tv/黄金翡翠台.png" group-title="香港頻道",黄金翡翠台
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "XM6VgzVoueMi8XxhOHswbw", "kid": "j+PbGiSWlpSuNEfyZHPrnw"}], "type": "temporary"}
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr43/__c/ott_TVG_hevc/__op/cenc_m/__f/index.mpd?sig=bb5113de6e4da8518c171e36a44e9c51&ext_start_limit=1744398979&int_start_limit=1744398979&ts=1744398979&c=339313918
 
 #EXTINF:-1 tvg-name="TVB星河" tvg-logo="https://live.wzi.me/tv/TVB星河.png" group-title="香港頻道",TVB星河
 http://php.jdshipin.com:8880/smt.php?id=Xinhe
@@ -31,7 +34,17 @@ http://edgeware-live.edgeware.tvb.com/__cl/slocalr87/__c/ott_B_hevc/__op/cenc_m/
 http://edgeware-live.edgeware.tvb.com/__cl/slocalr87/__c/ott_C_hevc/__op/cenc_m/__f/index.mpd?sig=75eeab45eea86a1a3796d72eabbc7913&ext_start_limit=1744398977&int_start_limit=1744398977&ts=1744398977&c=339313918
 
 #EXTINF:-1 tvg-name="TVB娱乐新闻台" tvg-logo="https://isus.cc/share/logo/星視界/TVB 娱乐新闻台.png" group-title="香港頻道",TVB娱乐新闻台
-http://php.jdshipin.com:8880/smt.php?id=Tvbentertainment
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "olYiDmwr6qgvTKX7pOwflQ", "kid": "b6Dkd1C14vtq35uaCsQxow"}], "type": "temporary"}
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr43/__c/ott_CTVE_hevc/__op/cenc_m/__f/index.mpd?sig=b00c16f068f302bfc0bc38f13a04e088&ext_start_limit=1744398979&int_start_limit=1744398979&ts=1744398979&c=339313918
+
+
+#EXTINF:-1 tvg-id="創世電視" tvg-name="創世電視" tvg-logo="https://xiaotan.860775.xyz/%E5%89%B5%E4%B8%96%E9%9B%BB%E8%A6%96.png",創世電視
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "tF2RL+xDtbvUGOp+ofvLYA", "kid": "re8AxbqSfQFkKx5vPO3J+w"}], "type": "temporary"}
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr65/__c/ott_CRE_hevc/__op/cenc_m/__f/index.mpd?sig=15ef35e4a82c6a87d734ed7f5d6ed39a&ext_start_limit=1744398980&int_start_limit=1744398980&ts=1744398980&c=339313918
 
 #EXTINF:-1 tvg-name="ViuTV" tvg-logo="https://live.wzi.me/tv/ViuTV.png" group-title="香港頻道",ViuTV
 http://php.jdshipin.com/TVOD/iptv.php?id=viutv2
@@ -64,13 +77,22 @@ http://php.jdshipin.com:8880/smt.php?id=Celestial
 http://php.jdshipin.com:8880/smt.php?id=Celestial2
 
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://live.wzi.me/tv/凤凰中文.png" group-title="香港頻道",凤凰中文
-http://php.jdshipin.com:8880/smt.php?id=phoenixtv_hd
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "6xnH486jTckGReM/mDsVqw", "kid": "e8oHcbqSBe211GfOL98BYg"}], "type": "temporary"}
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr87/__c/ott_PCC_hevc/__op/cenc_m/__f/index.mpd?sig=6bad63f9ce627dd042a87751bf49fbea&ext_start_limit=1744398979&int_start_limit=1744398979&ts=1744398979&c=339313918
 
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://live.wzi.me/tv/凤凰资讯.png" group-title="香港頻道",凤凰资讯
-http://php.jdshipin.com:8880/smt.php?id=phoenixinfo_hd
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "7NyAZaRih7+1jp92Xk7sKw", "kid": "g/fTE638CluXi576BCHOJQ"}], "type": "temporary"}
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr87/__c/ott_PIN_hevc/__op/cenc_m/__f/index.mpd?sig=a452d38394caac428cd1f7d8b3b4fe7d&ext_start_limit=1744398980&int_start_limit=1744398980&ts=1744398980&c=339313918
 
 #EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://live.wzi.me/tv/凤凰香港.png" group-title="香港頻道",凤凰香港
-http://php.jdshipin.com:8880/smt.php?id=hkphoenix_twn
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "uGhfvs93LmQVRjCCnPMwow", "kid": "zeYuEFbrNhXat6Pv2D9etA"}], "type": "temporary"}
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr65/__c/ott_PHK_hevc/__op/cenc_m/__f/index.mpd?sig=1378d062fe1ed1b84df8e37685137b6f&ext_start_limit=1744398980&int_start_limit=1744398980&ts=1744398980&c=339313918
 
 #EXTINF:-1 tvg-name="八度空间" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6d/Logo_8TV_Malaysia.png" group-title="大馬頻道",八度空间
 http://php.jdshipin.com:8880/smt.php?id=TV8
