@@ -1,7 +1,10 @@
 #EXTM3U
 #EXTM3U x-tvg-url="https://assets.livednow.com/epg.xml,https://live.wzi.me/e.xml,https://epg.112114.xyz/pp.xml.gz"
 #EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://live.wzi.me/tv/翡翠台.png" group-title="香港頻道",翡翠台
-http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct4
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "LS/XsWYbHijeOCaIcrSEgA", "kid": "CVi5xldiLEZaYgXrIlK47Q"}], "type": "temporary"}
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr43/__c/ott_J_hevc/__op/cenc_m/__f/index.mpd?sig=ba4c8daf634f02c37ad52784f6045929&ext_start_limit=1744398977&int_start_limit=1744398977&ts=1744398977&c=339313918
 
 #EXTINF:-1 tvg-name="华丽翡翠台" tvg-logo="https://live.wzi.me/tv/翡翠台.png" group-title="大馬頻道",华丽翡翠台
 http://php.jdshipin.com:8880/smt.php?id=Tvbjade
