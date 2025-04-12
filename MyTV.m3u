@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTM3U url-tvg="https://mytvsuperepg.860775.xyz/epg.xml https://epg.iill.top/epg.xml" catchup-time="10800" catchup-type="timeshift"   
+#EXTM3U url-tvg="https://mytvsuperepg.860775.xyz/epg.xml,https://epg.iill.top/epg.xml" catchup-time="10800" catchup-type="timeshift"   
 #EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://assets.livednow.com/logo/翡翠台.png" group-title="香港頻道",翡翠台
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
