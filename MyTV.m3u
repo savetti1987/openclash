@@ -78,8 +78,8 @@ http://edgeware-live.edgeware.tvb.com/__cl/slocalr65/__c/ott_CC1_hevc/__op/cenc_
 #KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "tF2RL+xDtbvUGOp+ofvLYA", "kid": "re8AxbqSfQFkKx5vPO3J+w"}], "type": "temporary"}
 http://edgeware-live.edgeware.tvb.com/__cl/slocalr87/__c/ott_CRE_hevc/__op/cenc_m/__f/index.mpd?sig=6bffad5ec6a439ba5f1da74d6c1e82b2&ext_start_limit=1744485422&int_start_limit=1744485422&ts=1744485422&c=339313918
 
-#EXTINF:-1 tvg-name="TVB星河" tvg-logo="https://live.wzi.me/tv/TVB星河.png" group-title="香港頻道",TVB星河
-http://php.jdshipin.com:8880/smt.php?id=Xinhe
+#EXTINF:-1 tvg-id="TVB星河" tvg-logo="https://media-1-mvhub.imgix.net/channel/35_1dr0A4YTgCbGHaBiMnlh5qPEtxs7kvoQ.png" group-title="香港頻道",TVB星河
+https://lb-mvtv-live.v2h-cdn.com/redirect/xinghe_1/xinghe_1.stream?type=m3u8
 
 #EXTINF:-1 tvg-name="ViuTV" tvg-logo="https://live.wzi.me/tv/ViuTV.png" group-title="香港頻道",ViuTV
 http://php.jdshipin.com/TVOD/iptv.php?id=viutv2
