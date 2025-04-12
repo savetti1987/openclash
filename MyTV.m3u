@@ -111,24 +111,6 @@ http://php.jdshipin.com:8880/smt.php?id=Celestial
 #EXTINF:-1 tvg-name="天映經典" tvg-logo="https://isus.cc/share/logo/星視界/天映经典.png" group-title="香港頻道",天映經典
 http://php.jdshipin.com:8880/smt.php?id=Celestial2
 
-#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://live.wzi.me/tv/凤凰中文.png" group-title="香港頻道",凤凰中文
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "6xnH486jTckGReM/mDsVqw", "kid": "e8oHcbqSBe211GfOL98BYg"}], "type": "temporary"}
-http://edgeware-live.edgeware.tvb.com/__cl/slocalr87/__c/ott_PCC_hevc/__op/cenc_m/__f/index.mpd?sig=6bad63f9ce627dd042a87751bf49fbea&ext_start_limit=1744398979&int_start_limit=1744398979&ts=1744398979&c=339313918
-
-#EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://live.wzi.me/tv/凤凰资讯.png" group-title="香港頻道",凤凰资讯
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "7NyAZaRih7+1jp92Xk7sKw", "kid": "g/fTE638CluXi576BCHOJQ"}], "type": "temporary"}
-http://edgeware-live.edgeware.tvb.com/__cl/slocalr87/__c/ott_PIN_hevc/__op/cenc_m/__f/index.mpd?sig=a452d38394caac428cd1f7d8b3b4fe7d&ext_start_limit=1744398980&int_start_limit=1744398980&ts=1744398980&c=339313918
-
-#EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://live.wzi.me/tv/凤凰香港.png" group-title="香港頻道",凤凰香港
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "uGhfvs93LmQVRjCCnPMwow", "kid": "zeYuEFbrNhXat6Pv2D9etA"}], "type": "temporary"}
-http://edgeware-live.edgeware.tvb.com/__cl/slocalr65/__c/ott_PHK_hevc/__op/cenc_m/__f/index.mpd?sig=1378d062fe1ed1b84df8e37685137b6f&ext_start_limit=1744398980&int_start_limit=1744398980&ts=1744398980&c=339313918
-
 #EXTINF:-1 tvg-name="八度空间" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6d/Logo_8TV_Malaysia.png" group-title="大馬頻道",八度空间
 http://php.jdshipin.com:8880/smt.php?id=TV8
 
