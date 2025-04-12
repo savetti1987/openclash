@@ -1,12 +1,8 @@
-# NAME: HamiVideo
-# DOMAIN: 1
-# DOMAIN-KEYWORD: 1
-# DOMAIN-SUFFIX: 2
-# TOTAL: 4
 DOMAIN-KEYWORD,hinet
 DOMAIN-KEYWORD,hamivideo
 DOMAIN-KEYWORD,4gtv
 DOMAIN-SUFFIX,4gtv.tv
+DOMAIN-SUFFIX,ntd-tgc.cdn.hinet.net
 DOMAIN-SUFFIX,cdn.hinet.net
 DOMAIN-SUFFIX,akamaized
 DOMAIN-SUFFIX,cdn.hinet.net
@@ -20,4 +16,3 @@ DOMAIN-SUFFIX,ntdvctv-tgc.cdn.hinet.net
 DOMAIN-SUFFIX,iptv.vip-tptv.xyz
 DOMAIN-SUFFIX,ofiii.com
 DOMAIN-SUFFIX,litv.tv
-DOMAIN-SUFFIX,ntd-tgc.cdn.hinet.net
