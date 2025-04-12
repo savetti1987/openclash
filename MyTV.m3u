@@ -2,9 +2,10 @@
 #EXTM3U x-tvg-url="https://assets.livednow.com/epg.xml,https://live.wzi.me/e.xml,https://epg.112114.xyz/pp.xml.gz"
 #EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://live.wzi.me/tv/翡翠台.png" group-title="香港頻道",翡翠台
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "LS/XsWYbHijeOCaIcrSEgA", "kid": "CVi5xldiLEZaYgXrIlK47Q"}], "type": "temporary"}
-http://edgeware-live.edgeware.tvb.com/__cl/slocalr43/__c/ott_J_hevc/__op/cenc_m/__f/index.mpd?sig=ba4c8daf634f02c37ad52784f6045929&ext_start_limit=1744398977&int_start_limit=1744398977&ts=1744398977&c=339313918
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr43/__c/ott_J_hevc/__op/cenc_m/__f/index.mpd?sig=8454daff852d3f745cda2f80068f57d5&ext_start_limit=1744485419&int_start_limit=1744485419&ts=1744485419&c=339313918
 
 #EXTINF:-1 tvg-name="黄金翡翠台" tvg-logo="https://live.wzi.me/tv/黄金翡翠台.png" group-title="香港頻道",黄金翡翠台
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
