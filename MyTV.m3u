@@ -7,16 +7,13 @@ https://lb-mvtv-live.v2h-cdn.com/redirect/jade2/jade.stream?type=m3u8
 https://lb-mvtv-live.v2h-cdn.com/redirect/mainland/mainland.stream?type=m3u8
 
 #EXTINF:-1 tvg-id="明珠台" tvg-name="明珠台" tvg-logo="https://assets.livednow.com/logo/明珠台.png" group-title="香港頻道",明珠台
-http://php.jdshipin.com:8880/smt.php?id=pearl_twn
+https://pixman.mytvsuper.com.mp/Smart.php?id=pearl_twn
 
 #EXTINF:-1 tvg-id="TVB plus" tvg-name="TVB plus" tvg-logo="https://img.sky4k.top/TVB_Plus_CheerVisionTV.png" group-title="香港頻道",TVB plus
-http://php.jdshipin.com:8880/smt.php?id=j2_twn
+https://pixman.mytvsuper.com.mp/Smart.php?id=j2_twn
 
 #EXTINF:-1 tvg-id="翡翠台(超高清)" tvg-name="翡翠台(超高清)" tvg-logo="https://assets.livednow.com/logo/翡翠台.png" group-title="香港頻道",翡翠台(超高清)
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "/BRncamwlvxMtX/+dphhvg", "kid": "LARfWtsm05HMQc0B8AQW+g"}], "type": "temporary"}
-http://edgeware-live.edgeware.tvb.com/__cl/slocalr43/__c/ott_JUHD_hevc/__op/cenc_m/__f/index.mpd?sig=a562071842d1ec93a755a2ad2063e86a&ext_start_limit=1744485420&int_start_limit=1744485420&ts=1744485420&c=339313918
+https://pixman.mytvsuper.com.mp/Smart.php?id=jade_twn
 
 #EXTINF:-1 tvg-id="Super Free" tvg-name="Super Free" tvg-logo="https://xiaotan.860775.xyz/mytvsuper.png" group-title="香港頻道",Super Free
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -34,13 +31,13 @@ http://edgeware-live.edgeware.tvb.com/__cl/slocalr21/__c/ott_TVG_hevc/__op/cenc_
 https://lb-mvtv-live.v2h-cdn.com/redirect/enew/enew.stream?type=m3u8
 
 #EXTINF:-1 tvg-id="鳳凰衛視中文台" tvg-name="鳳凰衛視中文台" tvg-logo="https://assets.livednow.com/logo/鳳凰中文.png" group-title="香港頻道",鳳凰衛視中文台
-http://php.jdshipin.com:8880/smt.php?id=phoenixtv_hd
+https://pixman.mytvsuper.com.mp/Smart.php?id=phoenixtv_hd
 
 #EXTINF:-1 tvg-id="鳳凰衛視資訊台" tvg-name="鳳凰衛視資訊台" tvg-logo="https://assets.livednow.com/logo/鳳凰資訊.png" group-title="香港頻道",鳳凰衛視資訊台
-http://php.jdshipin.com:8880/smt.php?id=phoenixinfo_hd
+https://pixman.mytvsuper.com.mp/Smart.php?id=phoenixinfo_hd
 
 #EXTINF:-1 tvg-id="鳳凰衛視香港台" tvg-name="鳳凰衛視香港台" tvg-logo="https://assets.livednow.com/logo/鳳凰香港.png" group-title="香港頻道",鳳凰衛視香港台
-http://php.jdshipin.com:8880/smt.php?id=hkphoenix_twn
+https://pixman.mytvsuper.com.mp/Smart.php?id=hkphoenix_twn
 
 #EXTINF:-1 tvg-id="中央電視台綜合頻道 (港澳版)" tvg-name="中央電視台綜合頻道 (港澳版)" tvg-logo="https://assets.livednow.com/logo/CCTV1.png" group-title="香港頻道",中央電視台綜合頻道 (港澳版)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
