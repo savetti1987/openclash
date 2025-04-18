@@ -178,8 +178,8 @@ http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/mtvhd_twn/playli
 #EXTINF:-1 tvg-name="Jstar極限台" tvg-logo="https://epg.pw/media/images/epg/2024/06/11/20240611160657599970_96.jpg" group-title="待整理",Jstar極限台-備用
 http://m6z.cn/5GCB1h
 
-#EXTINF:-1 tvg-name="e 视" group-title="大馬頻道",e 视
-http://p.168.us.kg/now/e/master.m3u8
+#EXTINF:-1 tvg-name="e" group-title="台灣頻道",三立戏剧
+https://sgp1.angelthump.com/hls/MjAyNS0wNC0xOFQwOTo0ODozMi41MzNaam5sc25sNDUyNDUyNA==_jnlsnl4524524/index.m3u8
 
 #EXTINF:0 tvg-id="ext" group-title="待整理",PORNBOX: BEEFCAKE HUNTER
 http://focustv.live:8080/emin1909sky317/emin.190924/563962
