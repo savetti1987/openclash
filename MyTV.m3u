@@ -119,13 +119,13 @@ http://p.168.us.kg/hoy/78/master.m3u8
 https://lb-mvtv-live.v2h-cdn.com/redirect/asia_action1/1asia_action.stream?type=m3u8
 
 #EXTINF:-1 tvg-name="Now 新聞台" tvg-logo="https://isus.cc/share/logo/星視界/Now 新闻台.png" group-title="香港頻道",Now 新聞台
-http://p.168.us.kg/now/332/master.m3u8
+http://mytv.cdn.com.mp/live/now/stream.m3u8
 
-#EXTINF:-1 tvg-name="Now 直播台" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/zh_tw/color/ch331_160_115" group-title="香港頻道",Now 直播台
-http://p.168.us.kg/now/331/master.m3u8
+#EXTINF:-1 tvg-name="龙祥时代" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/zh_tw/color/ch331_160_115" group-title="香港頻道",龙祥时代
+http://mytv.cdn.com.mp/live/lxsd/stream.m3u8
 
-#EXTINF:-1 tvg-name="Now 华剧台" tvg-logo="https://isus.cc/share/logo/星視界/Now 華劇台.png" group-title="香港頻道",Now 華劇台
-http://p.168.us.kg/now/105/master.m3u8
+#EXTINF:-1 tvg-name="纬来电影" tvg-logo="https://isus.cc/share/logo/星視界/Now 華劇台.png" group-title="香港頻道",纬来电影
+http://mytv.cdn.com.mp/live/wldy/stream.m3u8
 
 #EXTINF:-1 tvg-name="Now Sports Prime" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/zh_tw/color/ch630_160_115" group-title="體育頻道",Now Sports Prime
 http://p.168.us.kg/now/630/master.m3u8
@@ -133,14 +133,14 @@ http://p.168.us.kg/now/630/master.m3u8
 #EXTINF:-1 tvg-name="麥哲倫頻道" tvg-logo="https://epg.pw/media/images/epg/2025/03/01/20250301050105373432_94.png" group-title="台灣頻道",麥哲倫頻道
 http://p.168.us.kg/50007/4gtv-live123/master.m3u8
 
-#EXTINF:-1 tvg-name="靖天國際台" tvg-logo="https://isus.cc/share/logo/靖天國際台.png" group-title="台灣頻道",靖天國際台
-http://p.168.us.kg/50007/4gtv-4gtv063/master.m3u8
+#EXTINF:-1 tvg-name="Discovery" tvg-logo="https://isus.cc/share/logo/靖天國際台.png" group-title="台灣頻道",Discovery
+http://mytv.cdn.com.mp/live/d/stream.m3u8
 
-#EXTINF:-1 tvg-name="HBO Hits" tvg-logo="https://isus.cc/share/logo/HBO Hits.png" group-title="西語頻道",HBO Hits
-https://pixman.mytvsuper.com.mp/Smart.php?id=Hbohitshd
+#EXTINF:-1 tvg-name="东森电影" tvg-logo="https://isus.cc/share/logo/HBO Hits.png" group-title="西語頻道",东森电影
+http://mytv.cdn.com.mp/live/dsdy/stream.m3u8
 
-#EXTINF:-1 tvg-name="HBO" tvg-logo="https://isus.cc/share/logo/HBO.png" group-title="西語頻道",HBO
-http://www.pelotas.org:8278/hbohd_twn/playlist.m3u8?tid=MF9F4740058147400581&ct=20182&tsum=0e4017896d8c1464153e8f1a2b6383c8
+#EXTINF:-1 tvg-name="好莱坞电影" tvg-logo="https://isus.cc/share/logo/HBO.png" group-title="西語頻道",好莱坞电影
+http://mytv.cdn.com.mp/live/hlwdy/stream.m3u8
 
 #EXTINF:-1 tvg-name="DAZN1" tvg-logo="https://live.fanmingming.cn/tv/DAZN1.png" group-title="體育頻道",DAZN1
 rtmp://f13h.mine.nu/sat/tv731
