@@ -45,18 +45,6 @@ https://pixman.mytvsuper.com.mp/Smart.php?id=phoenixinfo_hd
 #EXTINF:-1 tvg-id="鳳凰衛視香港台" tvg-name="鳳凰衛視香港台" tvg-logo="https://assets.livednow.com/logo/鳳凰香港.png" group-title="香港頻道",鳳凰衛視香港台
 https://pixman.mytvsuper.com.mp/Smart.php?id=hkphoenix_twn
 
-#EXTINF:-1 tvg-id="中央電視台綜合頻道 (港澳版)" tvg-name="中央電視台綜合頻道 (港澳版)" tvg-logo="https://assets.livednow.com/logo/CCTV1.png" group-title="香港頻道",中央電視台綜合頻道 (港澳版)
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "Li6GArbYNczxDuVqmn2Rog", "kid": "5QsY/ufKt2ufKCLireh3Og"}], "type": "temporary"}
-http://edgeware-live.edgeware.tvb.com/__cl/slocalr65/__c/ott_CC1_hevc/__op/cenc_m/__f/index.mpd?sig=b35251f838bbc3b4a98e17e8d60e7062&ext_start_limit=1744485422&int_start_limit=1744485422&ts=1744485422&c=339313918
-
-#EXTINF:-1 tvg-id="創世電視" tvg-name="創世電視" tvg-logo="https://xiaotan.860775.xyz/%E5%89%B5%E4%B8%96%E9%9B%BB%E8%A6%96.png" group-title="香港頻道",創世電視
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "tF2RL+xDtbvUGOp+ofvLYA", "kid": "re8AxbqSfQFkKx5vPO3J+w"}], "type": "temporary"}
-http://edgeware-live.edgeware.tvb.com/__cl/slocalr87/__c/ott_CRE_hevc/__op/cenc_m/__f/index.mpd?sig=6bffad5ec6a439ba5f1da74d6c1e82b2&ext_start_limit=1744485422&int_start_limit=1744485422&ts=1744485422&c=339313918
-
 #EXTINF:-1 tvg-id="TVB星河" tvg-logo="https://media-1-mvhub.imgix.net/channel/35_1dr0A4YTgCbGHaBiMnlh5qPEtxs7kvoQ.png" group-title="香港頻道",TVB星河
 https://lb-mvtv-live.v2h-cdn.com/redirect/xinghe_1/xinghe_1.stream?type=m3u8
 
@@ -121,41 +109,29 @@ https://lb-mvtv-live.v2h-cdn.com/redirect/asia_action1/1asia_action.stream?type=
 #EXTINF:-1 tvg-name="Now 新聞台" tvg-logo="https://isus.cc/share/logo/星視界/Now 新闻台.png" group-title="香港頻道",Now 新聞台
 http://mytv.cdn.com.mp/live/now/stream.m3u8
 
-#EXTINF:-1 tvg-name="龙祥时代" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/zh_tw/color/ch331_160_115" group-title="香港頻道",龙祥时代
+#EXTINF:-1 tvg-name="龙祥时代" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/zh_tw/color/ch331_160_115" group-title="電影頻道",龙祥时代
 http://mytv.cdn.com.mp/live/lxsd/stream.m3u8
 
-#EXTINF:-1 tvg-name="纬来电影" tvg-logo="https://isus.cc/share/logo/星視界/Now 華劇台.png" group-title="香港頻道",纬来电影
+#EXTINF:-1 tvg-name="纬来电影" tvg-logo="https://isus.cc/share/logo/星視界/Now 華劇台.png" group-title="電影頻道",纬来电影
 http://mytv.cdn.com.mp/live/wldy/stream.m3u8
 
-#EXTINF:-1 tvg-name="Now Sports Prime" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/zh_tw/color/ch630_160_115" group-title="體育頻道",Now Sports Prime
-http://p.168.us.kg/now/630/master.m3u8
-
-#EXTINF:-1 tvg-name="麥哲倫頻道" tvg-logo="https://epg.pw/media/images/epg/2025/03/01/20250301050105373432_94.png" group-title="台灣頻道",麥哲倫頻道
+#EXTINF:-1 tvg-name="麥哲倫頻道" tvg-logo="https://epg.pw/media/images/epg/2025/03/01/20250301050105373432_94.png" group-title="記錄片頻道",麥哲倫頻道
 http://p.168.us.kg/50007/4gtv-live123/master.m3u8
 
-#EXTINF:-1 tvg-name="Discovery" tvg-logo="https://isus.cc/share/logo/靖天國際台.png" group-title="台灣頻道",Discovery
+#EXTINF:-1 tvg-name="Discovery" tvg-logo="https://isus.cc/share/logo/靖天國際台.png" group-title="記錄片頻道",Discovery
 http://mytv.cdn.com.mp/live/d/stream.m3u8
 
-#EXTINF:-1 tvg-name="东森电影" tvg-logo="https://isus.cc/share/logo/HBO Hits.png" group-title="西語頻道",东森电影
+#EXTINF:-1 tvg-name="东森电影" tvg-logo="https://isus.cc/share/logo/HBO Hits.png" group-title="電影頻道",东森电影
 http://mytv.cdn.com.mp/live/dsdy/stream.m3u8
 
-#EXTINF:-1 tvg-name="好莱坞电影" tvg-logo="https://isus.cc/share/logo/HBO.png" group-title="西語頻道",好莱坞电影
+#EXTINF:-1 tvg-name="好莱坞电影" tvg-logo="https://isus.cc/share/logo/HBO.png" group-title="電影頻道",好莱坞电影
 http://mytv.cdn.com.mp/live/hlwdy/stream.m3u8
-
-#EXTINF:-1 tvg-name="DAZN1" tvg-logo="https://live.fanmingming.cn/tv/DAZN1.png" group-title="體育頻道",DAZN1
-rtmp://f13h.mine.nu/sat/tv731
-
-#EXTINF:-1 tvg-name="DAZN2" tvg-logo="https://live.fanmingming.cn/tv/DAZN2.png" group-title="體育頻道",DAZN2
-rtmp://f13h.mine.nu/sat/tv741
-
-#EXTINF:-1 tvg-name="DAZN3" tvg-logo="https://live.fanmingming.cn/tv/DAZN3.png" group-title="體育頻道",DAZN3
-rtmp://f13h.mine.nu/sat/tv751
 
 #EXTINF:-1 tvg-name="極限台" tvg-logo="https://epg.pw/media/images/epg/2024/06/11/20240611160657599970_96.jpg" group-title="待整理",極限台
 https://z88.ubtvfans.com/live/rx3/405/3173a543a9c92b07348ba90c2a3e833e/index.m3u8
 
-#EXTINF:-1 -1 tvg-name="J Sport3" tvg-logo="https://assets.livednow.com/logo/J Sport3.png" group-title="體育頻道",J Sport3
-http://luong.utako.moe/js3/index.m3u8
+#EXTINF:-1 tvg-name="Jstar極限台" tvg-logo="https://epg.pw/media/images/epg/2024/06/11/20240611160657599970_96.jpg" group-title="待整理",Jstar極限台-備用
+http://m6z.cn/5GCB1h
 
 #EXTINF:-1 tvg-name="松視1台" tvg-logo="https://epg.pw/media/images/epg/2024/06/11/20240611160519310300_91.jpg" group-title="待整理",松視1台
 http://18.svi-studio.com:8880/live/908957700097/132663288386/5.m3u8
@@ -174,9 +150,6 @@ http://a.ru8.dpdns.org/now/ufc/master.m3u8
 
 #EXTINF:-1 tvg-name="MTV" tvg-logo="https://isus.cc/share/logo/MTV.png" group-title="台灣頻道",MTV
 http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/mtvhd_twn/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Jstar極限台" tvg-logo="https://epg.pw/media/images/epg/2024/06/11/20240611160657599970_96.jpg" group-title="待整理",Jstar極限台-備用
-http://m6z.cn/5GCB1h
 
 #EXTINF:-1 tvg-name="e" group-title="台灣頻道",三立戏剧
 https://sgp1.angelthump.com/hls/MjAyNS0wNC0xOFQwOTo0ODozMi41MzNaam5sc25sNDUyNDUyNA==_jnlsnl4524524/index.m3u8
