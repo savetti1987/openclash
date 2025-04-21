@@ -36,28 +36,28 @@ http://php.jdshipin.com:8880/smt.php?id=Celestial
 #EXTINF:-1,tvg-id="天映经典" tvg-name="天映经典" tvg-logo="https://epg.v1.mk/logo/天映经典.png" group-title="電影頻道",天映经典
 http://php.jdshipin.com:8880/smt.php?id=Celestial2
 
-#EXTINF:-1 tvg-id="鳳凰衛視中文台" tvg-name="鳳凰衛視中文台" tvg-logo="https://assets.livednow.com/logo/鳳凰中文.png" group-title="香港頻道",鳳凰衛視中文台
+#EXTINF:-1 tvg-id="鳳凰衛視中文台" tvg-name="鳳凰衛視中文台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Phoenix1.png" group-title="香港頻道",鳳凰衛視中文台
 https://pixman.mytvsuper.com.mp/Smart.php?id=phoenixtv_hd
 
-#EXTINF:-1 tvg-id="鳳凰衛視資訊台" tvg-name="鳳凰衛視資訊台" tvg-logo="https://assets.livednow.com/logo/鳳凰資訊.png" group-title="香港頻道",鳳凰衛視資訊台
+#EXTINF:-1 tvg-id="鳳凰衛視資訊台" tvg-name="鳳凰衛視資訊台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Phoenix2.png" group-title="香港頻道",鳳凰衛視資訊台
 https://pixman.mytvsuper.com.mp/Smart.php?id=phoenixinfo_hd
 
-#EXTINF:-1 tvg-id="鳳凰衛視香港台" tvg-name="鳳凰衛視香港台" tvg-logo="https://assets.livednow.com/logo/鳳凰香港.png" group-title="香港頻道",鳳凰衛視香港台
+#EXTINF:-1 tvg-id="鳳凰衛視香港台" tvg-name="鳳凰衛視香港台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Phoenix3.png" group-title="香港頻道",鳳凰衛視香港台
 https://pixman.mytvsuper.com.mp/Smart.php?id=hkphoenix_twn
 
 #EXTINF:-1 tvg-id="TVB星河" tvg-logo="https://media-1-mvhub.imgix.net/channel/35_1dr0A4YTgCbGHaBiMnlh5qPEtxs7kvoQ.png" group-title="香港頻道",TVB星河
 https://lb-mvtv-live.v2h-cdn.com/redirect/xinghe_1/xinghe_1.stream?type=m3u8
 
-#EXTINF:-1 tvg-name="ViuTV" tvg-logo="https://live.wzi.me/tv/ViuTV.png" group-title="香港頻道",ViuTV
+#EXTINF:-1 tvg-name="ViuTV" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/viutv.png" group-title="香港頻道",ViuTV
 http://tv.cdn5.rr.nu/live/viu/stream.m3u8
 
-#EXTINF:-1 tvg-name="ViuTVSix" tvg-logo="https://live.wzi.me/tv/ViuTVSix.png" group-title="香港頻道",ViuTV 6
+#EXTINF:-1 tvg-name="ViuTVSix" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/viutv6.png" group-title="香港頻道",ViuTV 6
 http://php.jdshipin.com:8880/smt.php?id=viusix_twn
 
-#EXTINF:-1 tvg-name="RTHK31" tvg-logo="https://live.wzi.me/tv/RTHK31.png" group-title="香港頻道",RTHK31
+#EXTINF:-1 tvg-name="RTHK31" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/RTHK31.png" group-title="香港頻道",RTHK31
 http://tv.cdn5.rr.nu/live/rthk31/stream.m3u8
 
-#EXTINF:-1 tvg-name="RTHK32" tvg-logo="https://live.wzi.me/tv/RTHK32.png" group-title="香港頻道",RTHK32
+#EXTINF:-1 tvg-name="RTHK32" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/RTHK32.png" group-title="香港頻道",RTHK32
 http://tv.cdn5.rr.nu/live/rthk32/stream.m3u8
 
 #EXTINF:-1 tvg-name="千禧经典台" tvg-logo="https://live.wzi.me/tv/千禧经典台.png" group-title="香港頻道",千禧经典台
@@ -100,7 +100,7 @@ https://hoytv-live-stream.hoy.tv/ch78/index-fhd.m3u8
 #EXTINF:-1 tvg-name="功夫台" tvg-logo="https://media-1-mvhub.imgix.net/channel/28_2B61arT3zcGqlCFU4I5SQXvENgVihLZ8.png" group-title="香港頻道",功夫台
 https://lb-mvtv-live.v2h-cdn.com/redirect/asia_action1/1asia_action.stream?type=m3u8
 
-#EXTINF:-1 tvg-name="Now 新聞台" tvg-logo="https://isus.cc/share/logo/星視界/Now 新闻台.png" group-title="香港頻道",Now 新聞台
+#EXTINF:-1 tvg-name="Now 新聞台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/now1.png" group-title="香港頻道",Now 新聞台
 http://mytv.cdn.com.mp/live/now/stream.m3u8
 
 #EXTINF:-1 tvg-name="龙祥时代" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/zh_tw/color/ch331_160_115" group-title="電影頻道",龙祥时代
