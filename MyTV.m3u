@@ -139,7 +139,7 @@ http://18.svi-studio.com:8880/live/908957700097/132663288386/20205.m3u8
 #EXTINF:-1 tvg-name="Hustler HD" tvg-logo="https://epg.pw/media/images/epg/2024/06/08/20240608034717118584_11.png" group-title="待整理",Hustler HD
 http://main.canale-romanesti.com:80/AN2233795/sO0HIhVEWd38KH6OQnh2J5JwgCt8JX/58050
 
-#EXTINF:-1 tvg-id="珠江台" tvg-name="珠江台" tv-log="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Guangdong9.png" group-title="廣東頻道",珠江台
+#EXTINF:-1 tvg-id="珠江台" tvg-name="珠江台" tv-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Guangdong9.png" group-title="廣東頻道",珠江台
 http://php.jdshipin.com/TVOD/iptv.php?id=gdzj
 
 #EXTINF:-1 tvg-name="MTV" tvg-logo="https://isus.cc/share/logo/MTV.png" group-title="台灣頻道",MTV
