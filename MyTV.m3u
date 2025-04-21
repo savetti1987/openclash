@@ -103,7 +103,7 @@ https://lb-mvtv-live.v2h-cdn.com/redirect/asia_action1/1asia_action.stream?type=
 #EXTINF:-1 tvg-name="Now 新聞台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/now1.png" group-title="香港頻道",Now 新聞台
 http://mytv.cdn.com.mp/live/now/stream.m3u8
 
-#EXTINF:-1 tvg-name="龙祥时代" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/zh_tw/color/ch331_160_115" group-title="電影頻道",龙祥时代
+#EXTINF:-1 tvg-name="龙祥时代" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/LStime.png" group-title="電影頻道",龙祥时代
 http://mytv.cdn.com.mp/live/lxsd/stream.m3u8
 
 #EXTINF:-1 tvg-name="纬来电影" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Videoland2.png" group-title="電影頻道",纬来电影
