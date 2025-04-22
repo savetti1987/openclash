@@ -112,7 +112,7 @@ http://mytv.cdn.com.mp/live/wldy/stream.m3u8
 #EXTINF:-1 tvg-name="麥哲倫頻道" tvg-logo="https://epg.pw/media/images/epg/2025/03/01/20250301050105373432_94.png" group-title="記錄片頻道",麥哲倫頻道
 http://p.168.us.kg/50007/4gtv-live123/master.m3u8
 
-#EXTINF:-1 tvg-name="Discovery" tvg-logo="https://isus.cc/share/logo/靖天國際台.png" group-title="記錄片頻道",Discovery
+#EXTINF:-1 tvg-name="Discovery" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Discovery1.png" group-title="記錄片頻道",Discovery
 http://mytv.cdn.com.mp/live/d/stream.m3u8
 
 #EXTINF:-1 tvg-name="东森电影" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/EBC3.png" group-title="電影頻道",东森电影
