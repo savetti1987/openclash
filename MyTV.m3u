@@ -139,8 +139,8 @@ http://m6z.cn/5VECGB
 #EXTINF:-1 tvg-id="珠江台" tvg-name="珠江台" tv-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Guangdong9.png" group-title="廣東頻道",珠江台
 http://php.jdshipin.com/TVOD/iptv.php?id=gdzj
 
-#EXTINF:-1 tvg-name="MTV" tvg-logo="https://isus.cc/share/logo/MTV.png" group-title="台灣頻道",MTV
-http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/mtvhd_twn/playlist.m3u8
+#EXTINF:-1 tvg-name="MTV" tvg-logo="https://isus.cc/share/logo/MTV.png" group-title="香港頻道",C+
+http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8
 
 #EXTINF:-1 tvg-name="e" group-title="台灣頻道",三立戏剧
 https://sgp1.angelthump.com/hls/MjAyNS0wNC0xOFQwOTo0ODozMi41MzNaam5sc25sNDUyNDUyNA==_jnlsnl4524524/index.m3u8
