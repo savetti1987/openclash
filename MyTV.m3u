@@ -100,8 +100,8 @@ http://php.jdshipin.com/TVOD/iptv.php?id=gdzj
 #EXTINF:-1 tvg-name="MTV" tvg-logo="https://isus.cc/share/logo/MTV.png" group-title="香港頻道",C+
 http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8
 
-#EXTINF:-1 tvg-name="e" group-title="台灣頻道",三立戏剧
-https://gdfire2.67890123.cn:8088/live/nowty1.m3u8
+#EXTINF:-1 tvg-name="e" group-title="電影頻道",周星馳專區
+http://hw.1678520.xyz/live/zxx/stream.m3u8
 
 #EXTINF:-1 tvg-id="052" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/12/02/257841ac-7e01-3ebb-8091-3630d0a6ef8b.jpeg?w=500&f=webp" group-title="電影頻道",HBO Zone
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
