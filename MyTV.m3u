@@ -68,7 +68,7 @@ http://mytv.cdn.com.mp/live/lxsd/stream.m3u8
 http://mytv.cdn.com.mp/live/wldy/stream.m3u8
 
 #EXTINF:-1 tvg-name="麥哲倫頻道" tvg-logo="https://epg.pw/media/images/epg/2025/03/01/20250301050105373432_94.png" group-title="記錄片頻道",麥哲倫頻道
-http://p.168.us.kg/50007/4gtv-live123/master.m3u8
+http://61.163.58.168:2015/play/forward/1?tvid=NowBaoguSuperstarsHKHD
 
 #EXTINF:-1 tvg-name="Discovery" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Discovery1.png" group-title="記錄片頻道",Discovery
 http://mytv.cdn.com.mp/live/d/stream.m3u8
@@ -101,7 +101,7 @@ http://m6z.cn/5VECGB
 http://php.jdshipin.com/TVOD/iptv.php?id=gdzj
 
 #EXTINF:-1 tvg-name="MTV" tvg-logo="https://isus.cc/share/logo/MTV.png" group-title="香港頻道",C+
-http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8
+http://qwttv.iptv1688.top:2015/play/forward/1?tvid=NowBaoguMoviesHKHD
 
 #EXTINF:-1 tvg-name="e" group-title="電影頻道",周星馳專區
 http://hw.1678520.xyz/live/zxx/stream.m3u8
