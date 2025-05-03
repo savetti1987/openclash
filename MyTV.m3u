@@ -22,10 +22,10 @@ http://tv.cdn5.rr.nu/live/viu/stream.m3u8
 http://php.jdshipin.com:8880/smt.php?id=viusix_twn
 
 #EXTINF:-1 tvg-name="RTHK31" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/RTHK31.png" group-title="香港頻道",RTHK31
-http://tv.cdn5.rr.nu/live/rthk31/stream.m3u8
+http://php.jdshipin.com/PLTV/iptv.php?id=rthk31
 
 #EXTINF:-1 tvg-name="RTHK32" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/RTHK32.png" group-title="香港頻道",RTHK32
-http://tv.cdn5.rr.nu/live/rthk32/stream.m3u8
+http://php.jdshipin.com/PLTV/iptv.php?id=rthk32
 
 #EXTINF:-1 tvg-name="八度空间" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6d/Logo_8TV_Malaysia.png" group-title="大馬頻道",八度空间
 http://php.jdshipin.com:8880/smt.php?id=TV8
