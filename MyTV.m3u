@@ -113,4 +113,4 @@ http://hw.1678520.xyz/live/zxx/stream.m3u8
 https://gcp.live.na.prd.media.max.com/live/use1/e91_CixhY2EwNjZmYi05OGJiLTU3NmItYjg2YS0zZDRhZmVkN2ZiOGUtdXMtZWFzdBINYm9sdC1nbG8tcHJvZBoTEhFwYWNrYWdlci1tcDQtY2VuYw/fallback.mpd
 
 #EXTINF:-1 tvg-name="e" group-title="電影頻道",乐E
-https://channel.singteltvgo.com/wp/liveoriginclusterposter.iptv.singnet.public/5501/vxfmt=dp/manifest.mpd?device_profile=DASH_OTT_ENC_CENC_AXINOM
+http://edgeware-live.edgeware.tvb.com/_cl/slocalr21/_c/ott_CCCM_hevc/_op/cenc_m/_f/index.mpd?sig=ad32a120ce086f2ecdbb3562e5a16692&ext_startlimit=1746456712&int_start_limit=1746456712&ts=1746456712&c=339313918&p=1566&mode=admarke,ticks
