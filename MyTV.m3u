@@ -113,7 +113,7 @@ http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8
 http://hw.1678520.xyz/live/zxx/stream.m3u8
 
 #EXTINF:-1 tvg-name="e" group-title="電影頻道",乐E
-http://ali.hlspull.yximgs.com/live/1cdaf62bcbbf9904d23165467dec9874.flv
+https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_4/dash.mpd
 
 #EXTINF:-1 tvg-id="052" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/12/02/257841ac-7e01-3ebb-8091-3630d0a6ef8b.jpeg?w=500&f=webp" group-title="電影頻道",HBO Zone
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
