@@ -79,7 +79,7 @@ http://euu2w.ensl.cn/51
 #EXTINF:-1 tvg-name="Discovery" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Discovery1.png" group-title="記錄片頻道",Discovery
 http://mytv.cdn.com.mp/live/d/stream.m3u8
 
-#EXTINF:-1 tvg-name="紫金國際Jelli" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/EBC3.png" group-title="劇集頻道",Now 紫金國際台
+#EXTINF:-1 tvg-name="紫金國際Jelli" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/4/47/NowJelli_logo.png/500px-NowJelli_logo.png" group-title="劇集頻道",Now 紫金國際台
 http://euu2x.ensl.cn/6f
 
 #EXTINF:-1 tvg-name="好莱坞电影" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Hollywood.png" group-title="電影頻道",好莱坞电影
