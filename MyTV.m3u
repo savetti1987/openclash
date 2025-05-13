@@ -19,10 +19,10 @@ http://php.jdshipin.com:8880/smt.php?id=Celestial2
 https://lb-mvtv-live.v2h-cdn.com/redirect/xinghe_1/xinghe_1.stream?type=m3u8
 
 #EXTINF:-1 tvg-name="ViuTV" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/viutv.png" group-title="香港頻道",ViuTV
-http://php.jdshipin.com:8880/TVOD/iptv.php?id=viutv
+http://a.ru8.dpdns.org/now/096/master.m3u8
 
 #EXTINF:-1 tvg-name="ViuTVSix" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/viutv6.png" group-title="香港頻道",ViuTV 6
-http://php.jdshipin.com:8880/smt.php?id=viusix_twn
+http://a.ru8.dpdns.org/now/099/master.m3u8
 
 #EXTINF:-1 tvg-name="RTHK31" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/RTHK31.png" group-title="香港頻道",RTHK31
 http://php.jdshipin.com/PLTV/iptv.php?id=rthk31
@@ -59,7 +59,7 @@ https://hoytv-live-stream.hoy.tv/ch78/index-fhd.m3u8
 https://lb-mvtv-live.v2h-cdn.com/redirect/asia_action1/1asia_action.stream?type=m3u8
 
 #EXTINF:-1 tvg-name="Now 新聞台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/now1.png" group-title="香港頻道",Now 新聞台
-http://mytv.cdn.com.mp/live/now/stream.m3u8
+http://a.ru8.dpdns.org/now/332/master.m3u8
 
 #EXTINF:-1 tvg-name="Now 爆谷" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/now4.png" group-title="電影頻道",Now 爆谷台
 http://euumc.ensl.cn/28
