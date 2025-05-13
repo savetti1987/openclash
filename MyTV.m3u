@@ -74,7 +74,7 @@ http://mytv.cdn.com.mp/live/lxsd/stream.m3u8
 http://mytv.cdn.com.mp/live/wldy/stream.m3u8
 
 #EXTINF:-1 tvg-name="Now 華劇" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/now7.png" group-title="劇集頻道",Now 華劇台
-http://euu2w.ensl.cn/51
+http://a.ru8.dpdns.org/now/105/master.m3u8
 
 #EXTINF:-1 tvg-name="Discovery" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Discovery1.png" group-title="記錄片頻道",Discovery
 http://mytv.cdn.com.mp/live/d/stream.m3u8
