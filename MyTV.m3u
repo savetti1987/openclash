@@ -62,13 +62,13 @@ https://lb-mvtv-live.v2h-cdn.com/redirect/asia_action1/1asia_action.stream?type=
 http://a.ru8.dpdns.org/now/332/master.m3u8
 
 #EXTINF:-1 tvg-name="Now 爆谷" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/now4.png" group-title="電影頻道",Now 爆谷台
-http://euumc.ensl.cn/28
+http://150.138.77.132:10037/西瓜/Now爆谷台.php
 
 #EXTINF:-1 tvg-name="Now 星影" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/now5.png" group-title="電影頻道",Now 星影台
-http://euu2m.ensl.cn/22
+http://150.138.77.132:10037/西瓜/Now星影台.php
 
 #EXTINF:-1 tvg-name="龙祥时代" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/LStime.png" group-title="電影頻道",龙祥时代
-http://mytv.cdn.com.mp/live/lxsd/stream.m3u8
+http://150.138.77.132:10037/西瓜/壹电影.php
 
 #EXTINF:-1 tvg-name="纬来电影" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Videoland2.png" group-title="電影頻道",纬来电影
 http://mytv.cdn.com.mp/live/wldy/stream.m3u8
