@@ -65,16 +65,16 @@ http://a.ru8.dpdns.org/now/332/master.m3u8
 https://ali.hlspull.yximgs.com/live/a4e6a5335e7f8e132d3e0da6e2b8efcc.flv
 
 #EXTINF:-1 tvg-name="Now 星影" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/now5.png" group-title="電影頻道",Now 星影台
-http://150.138.77.132:10037/西瓜/Now星影台.php
+https://ali.hlspull.yximgs.com/live/8543e959a3c89ea4aca8e5e386fbb6c0.flv
 
 #EXTINF:-1 tvg-name="龙祥时代" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/LStime.png" group-title="電影頻道",龙祥时代
-http://150.138.77.132:10037/西瓜/壹电影.php
+https://ali.hlspull.yximgs.com/live/eccee6247ce7719ed2524edd6913ae37.flv
 
 #EXTINF:-1 tvg-name="纬来电影" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Videoland2.png" group-title="電影頻道",纬来电影
-http://mytv.cdn.com.mp/live/wldy/stream.m3u8
+https://ali.hlspull.yximgs.com/live/1400f385084ac6e76aebe4baf44a1833.flv
 
 #EXTINF:-1 tvg-name="Now 華劇" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/now7.png" group-title="劇集頻道",Now 華劇台
-http://a.ru8.dpdns.org/now/105/master.m3u8
+https://ali.hlspull.yximgs.com/live/70295be8e42d91150c87e1c52df1a647.flv
 
 #EXTINF:-1 tvg-name="Discovery" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Discovery1.png" group-title="記錄片頻道",Discovery
 http://mytv.cdn.com.mp/live/d/stream.m3u8
@@ -83,7 +83,7 @@ http://mytv.cdn.com.mp/live/d/stream.m3u8
 http://a.ru8.dpdns.org/now/630/master.m3u8
 
 #EXTINF:-1 tvg-name="好莱坞电影" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Hollywood.png" group-title="電影頻道",好莱坞电影
-http://mytv.cdn.com.mp/live/hlwdy/stream.m3u8
+https://ali.hlspull.yximgs.com/live/4cf7b778314c08f1112ebccb128b46ea.flv
 
 #EXTINF:-1 tvg-name="極限台" tvg-logo="https://epg.pw/media/images/epg/2024/06/11/20240611160657599970_96.jpg" group-title="待整理",極限台
 https://z88.ubtvfans.com/live/rx3/405/3173a543a9c92b07348ba90c2a3e833e/index.m3u8
