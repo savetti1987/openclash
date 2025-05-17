@@ -62,25 +62,25 @@ https://lb-mvtv-live.v2h-cdn.com/redirect/asia_action1/1asia_action.stream?type=
 http://a.ru8.dpdns.org/now/332/master.m3u8
 
 #EXTINF:-1 tvg-name="Now 爆谷" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/now4.png" group-title="電影頻道",Now 爆谷台
-https://ali.hlspull.yximgs.com/live/a4e6a5335e7f8e132d3e0da6e2b8efcc.flv
+http://www.kaniptv.cn/zy/论坛地址:kaniptv.com.php?id=20
 
 #EXTINF:-1 tvg-name="Now 星影" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/now5.png" group-title="電影頻道",Now 星影台
-https://ali.hlspull.yximgs.com/live/8543e959a3c89ea4aca8e5e386fbb6c0.flv
+http://www.kaniptv.cn/zy/论坛地址:kaniptv.com.php?id=23
 
 #EXTINF:-1 tvg-name="龙祥时代" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/LStime.png" group-title="電影頻道",龙祥时代
-https://ali.hlspull.yximgs.com/live/eccee6247ce7719ed2524edd6913ae37.flv
+http://www.kaniptv.cn/zy/论坛地址:kaniptv.com.php?id=38
 
 #EXTINF:-1 tvg-name="纬来电影" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Videoland2.png" group-title="電影頻道",纬来电影
 https://ali.hlspull.yximgs.com/live/1400f385084ac6e76aebe4baf44a1833.flv
 
 #EXTINF:-1 tvg-name="Now 華劇" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/now7.png" group-title="劇集頻道",Now 華劇台
-https://ali.hlspull.yximgs.com/live/70295be8e42d91150c87e1c52df1a647.flv
+http://www.kaniptv.cn/zy/论坛地址:kaniptv.com.php?id=27
 
 #EXTINF:-1 tvg-name="Discovery" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Discovery1.png" group-title="記錄片頻道",Discovery
 http://mytv.cdn.com.mp/live/d/stream.m3u8
 
 #EXTINF:-1 tvg-name="紫金國際Jelli" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/4/47/NowJelli_logo.png/500px-NowJelli_logo.png" group-title="劇集頻道",Now 紫金國際台
-http://a.ru8.dpdns.org/now/630/master.m3u8
+http://www.kaniptv.cn/zy/论坛地址:kaniptv.com.php?id=1
 
 #EXTINF:-1 tvg-name="好莱坞电影" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Hollywood.png" group-title="電影頻道",好莱坞电影
 https://ali.hlspull.yximgs.com/live/4cf7b778314c08f1112ebccb128b46ea.flv
@@ -113,7 +113,7 @@ http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8
 http://hw.1678520.xyz/live/zxx/stream.m3u8
 
 #EXTINF:-1 tvg-name="e" group-title="電影頻道",Drama Hotpot
-https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_4/dash.mpd
+http://www.kaniptv.cn/zy/论坛地址:kaniptv.com.php?id=37
 
 #EXTINF:-1 tvg-id="052" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/12/02/257841ac-7e01-3ebb-8091-3630d0a6ef8b.jpeg?w=500&f=webp" group-title="電影頻道",HBO Zone
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
