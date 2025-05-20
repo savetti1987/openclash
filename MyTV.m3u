@@ -109,8 +109,8 @@ http://php.jdshipin.com/TVOD/iptv.php?id=gdzj
 #EXTINF:-1 tvg-name="MTV" tvg-logo="https://isus.cc/share/logo/MTV.png" group-title="香港頻道",C+
 http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8
 
-#EXTINF:-1 tvg-name="e" group-title="電影頻道",周星馳專區
-http://150.138.77.132:10037/gitee/diyp.php?id=7
+#EXTINF:-1 tvg-name="e" group-title="劇集頻道",E樂
+e乐,https://channel.singteltvgo.com/wp/liveorigincluster.poster.iptv.singnet.public/5501/vxfmt=dp/manifest.mpd?device_profile=DASH_OTT_ENC_CENC_AXINOM$license-type=clearkey$license-key=83dea75029954534b0b4842b523b5cf9:e99e600f3356e93c8828260cc1c27a44
 
 #EXTINF:-1 tvg-name="e" group-title="電影頻道",Drama Hotpot
 http://www.kaniptv.cn/zy/论坛地址:kaniptv.com.php?id=37
