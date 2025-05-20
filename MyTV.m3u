@@ -110,7 +110,7 @@ http://php.jdshipin.com/TVOD/iptv.php?id=gdzj
 http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8
 
 #EXTINF:-1 tvg-name="e" group-title="劇集頻道",E樂
-https://channel.singteltvgo.com/wp/liveorigincluster.poster.iptv.singnet.public/5501/vxfmt=dp/manifest.mpd?device_profile=DASH_OTT_ENC_CENC_AXINOM$license-type=clearkey$license-key=83dea75029954534b0b4842b523b5cf9:e99e600f3356e93c8828260cc1c27a44
+e乐,https://channel.singteltvgo.com/wp/liveorigincluster.poster.iptv.singnet.public/5501/vxfmt=dp/manifest.mpd?device_profile=DASH_OTT_ENC_CENC_AXINOM$license-type=clearkey$license-key=83dea75029954534b0b4842b523b5cf9:e99e600f3356e93c8828260cc1c27a44
 
 #EXTINF:-1 tvg-id="052" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/12/02/257841ac-7e01-3ebb-8091-3630d0a6ef8b.jpeg?w=500&f=webp" group-title="電影頻道",HBO Zone
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
