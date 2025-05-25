@@ -109,7 +109,7 @@ http://php.jdshipin.com/TVOD/iptv.php?id=gdzj
 #EXTINF:-1 tvg-name="MTV" tvg-logo="https://isus.cc/share/logo/MTV.png" group-title="香港頻道",C+
 http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8
 
-#EXTINF:-1 tvg-name="e乐" group-title="劇集頻道",Now 劇集台
+#EXTINF:-1 tvg-name="Now 劇集台" tvg-log="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/now6.png" group-title="劇集頻道",Now 劇集台
 http://154.40.47.19:668/gy/gy_a8b8/LLPZBGPT_iNjIn.php?id=Now劇集台
 
 #EXTINF:-1 tvg-id="052" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/12/02/257841ac-7e01-3ebb-8091-3630d0a6ef8b.jpeg?w=500&f=webp" group-title="電影頻道",HBO Zone
