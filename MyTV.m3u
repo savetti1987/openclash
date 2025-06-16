@@ -74,7 +74,7 @@ http://jxiptv.dpdns.org/stream/4gtv/null-12/master.m3u8?u=test&p=9f86d081884c7d6
 https://ali.hlspull.yximgs.com/live/1400f385084ac6e76aebe4baf44a1833.flv
 
 #EXTINF:-1 tvg-name="Now 華劇" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/now7.png" group-title="劇集頻道",Now 華劇台
-http://154.40.47.19:668/gy/gy_a8b8/LLPZBGPT_iNjIn.php?id=Now華劇台
+http://a.ru8.dpdns.org/now/105/master.m3u8
 
 #EXTINF:-1 tvg-name="Discovery" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Discovery1.png" group-title="記錄片頻道",Discovery
 http://mytv.cdn.com.mp/live/d/stream.m3u8
