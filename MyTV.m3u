@@ -77,13 +77,13 @@ https://ali.hlspull.yximgs.com/live/1400f385084ac6e76aebe4baf44a1833.flv
 http://a.ru8.dpdns.org/now/105/master.m3u8
 
 #EXTINF:-1 tvg-name="Discovery" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Discovery1.png" group-title="記錄片頻道",Discovery
-http://mytv.cdn.com.mp/live/d/stream.m3u8
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:11:ED:45&stream=554953&extension=ts&play_token=lAtRB9T7GT
 
 #EXTINF:-1 tvg-name="紫金國際Jelli" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/4/47/NowJelli_logo.png/500px-NowJelli_logo.png" group-title="劇集頻道",Now 紫金國際台
-http://154.40.47.19:668/gy/gy_a8b8/LLPZBGPT_iNjIn.php?id=NowJelli紫金国际
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:11:ED:45&stream=554948&extension=ts&play_token=DwOOybag8Q
 
 #EXTINF:-1 tvg-name="好莱坞电影" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Hollywood.png" group-title="電影頻道",好莱坞电影
-https://ali.hlspull.yximgs.com/live/4cf7b778314c08f1112ebccb128b46ea.flv
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:11:ED:45&stream=554947&extension=ts&play_token=iu8FzQ2uII
 
 #EXTINF:-1 tvg-name="極限台" tvg-logo="https://epg.pw/media/images/epg/2024/06/11/20240611160657599970_96.jpg" group-title="待整理",極限台
 https://z88.ubtvfans.com/live/rx3/405/3173a543a9c92b07348ba90c2a3e833e/index.m3u8
