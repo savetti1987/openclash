@@ -74,7 +74,7 @@ http://live-hdl.macaulotustv.com/lotustv/macaulotustv.m3u8
 https://ali.hlspull.yximgs.com/live/1400f385084ac6e76aebe4baf44a1833.flv
 
 #EXTINF:-1 tvg-name="Now 華劇" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/now7.png" group-title="劇集頻道",Now 華劇台
-http://a.ru8.dpdns.org/now/105/master.m3u8
+https://pccw-live-cdn-01.akamaized.net/Content/HLS_VOS1/Live/channel(VOS_CH332N)/index.m3u8
 
 #EXTINF:-1 tvg-name="Discovery" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Discovery1.png" group-title="記錄片頻道",Discovery
 http://mag.greatott.me:80/play/live.php?mac=00:1A:79:11:ED:45&stream=554953&extension=ts&play_token=lAtRB9T7GT
